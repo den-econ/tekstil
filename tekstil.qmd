@@ -30,7 +30,7 @@ author:
   - name: "Artstein Dhimathera"
     affiliations:
       - ref: den
-  - name: "Ghaffari Ramadhan"
+  - name: "Gaffari Ramadhan"
     affiliations:
       - ref: den
   - name: "Krisna Gupta"
@@ -89,9 +89,9 @@ nocite: |
 
 # Introduction
 
-The creation of formal employment remains one of Indonesia's key economic development challenges. Although the open unemployment rate declined from 5.32 percent in 2023 to 4.91 percent in 2024, informal employment has continued to grow faster than formal employment. At the same time, the proportion of full-time workers has shown a declining trend in recent years [@bps2025tpt; @lubis2025]. These developments suggest that labor market performance should be assessed not only in terms of the number of jobs created, but also in terms of the quality and formality of employment opportunities.
+The creation of formal employment remains one of Indonesia's key economic development challenges. Statistics Indonesia (BPS) data show that although the open unemployment rate declined from 4.91 percent in August 2024 to 4.85 percent in August 2025, informal employment has continued to grow faster than formal employment. At the same time, the proportion of full-time workers has shown a declining trend in recent years [@bps2025tpt; @lubis2025]. These developments suggest that labor market performance should be assessed not only in terms of the number of jobs created, but also in terms of the quality and formality of employment opportunities.
 
-Within this context, the textile & garment, and footwear industries occupy a strategic position in Indonesia's economy. In 2025, the two industries employed more than five million workers, equivalent to approximately one-quarter of Indonesia's formal manufacturing workforce. Their contribution to employment is disproportionately larger than their contribution to manufacturing output, reflecting the labor-intensive nature of their production processes. Based on Statistics Indonesia (BPS) data, the industries also generate significantly more employment per unit of investment than most other manufacturing sectors. As a result, developments in the textile and footwear industries have direct implications for formal job creation, household incomes, and broader economic inclusion.
+Within this context, the textile & garment, and footwear industries occupy a strategic position in Indonesia's economy. In 2025, the two industries employed more than five million workers, equivalent to approximately one-quarter of Indonesia's formal manufacturing workforce. Their contribution to employment is disproportionately larger than their contribution to manufacturing output, reflecting the labor-intensive nature of their production processes. Based on BPS data, the industries also generate significantly more employment per unit of investment than most other manufacturing sectors. As a result, developments in the textile and footwear industries have direct implications for formal job creation, household incomes, and broader economic inclusion.
 
 At the same time, the industries face a complex set of challenges. In recent years, textile and footwear producers have been affected by slowing global demand, intensifying international competition, increasingly stringent sustainability requirements in major export markets, and the need for continued technological upgrading and productivity improvements. These pressures have been reflected in factory closures and layoffs reported since 2023. Yet despite these challenges, the industries continue to attract new investment, particularly from firms integrated into global value chains and supplying international brands. This apparent contradiction suggests that the challenges facing the sector cannot be understood solely as a question of declining competitiveness. Rather, they reflect an ongoing process of industrial transformation that is reshaping Indonesia's textile and footwear industries.
 
@@ -103,15 +103,15 @@ This paper examines these dynamics in greater detail. Section 2 reviews the char
 
 Indonesia's textile and garment industry grew by 3.55% in 2025, compared with 4.26% in 2024. The leather, leather products and footwear industry recorded growth of 3.31 percent in 2025, following a notably stronger expansion of 6.83 percent in 2024 (@fig-growth). Despite the moderation observed in 2025, the footwear industry has generally outperformed the textile industry during the post-pandemic recovery period. More broadly, both industries have exhibited significant volatility over the past decade, reflecting shifts in global demand and the disruptions associated with the COVID-19 pandemic.
 
-![Growth trends in the textile, footwear and manufacturing sectors, 2010--2025. Source: BPS (2025).](fig/gdp_growth.png){#fig-growth width=85%}
+![Growth trends in the textile, footwear and manufacturing sectors, 2010--2025. Source: BPS.](fig/gdp_growth.png){#fig-growth width=85%}
 
 As @fig-recovery demonstrates, four years after the onset of the pandemic, neither industry has fully returned to its pre-COVID growth. The figure presents constant-price GDP for the textile & garment and the footwear industries. The solid, orange line represents actual GDP data, while the dashed line indicates the pre-COVID trend estimated using the HP filter method [@hodrick1997; @razzak1997]. However, the recovery path of both industries, particularly the footwear industry, remains encouraging.
 
-![Post-pandemic recovery projection of the textile and footwear industries relative to pre-COVID trends. Source: Statistics Indonesia (BPS), accessed through CEIC.](fig/gdp_covid_disruption.png){#fig-recovery width=100%}
+![Post-pandemic recovery projection of the textile and footwear industries relative to pre-COVID trends. Source: BPS, accessed through CEIC.](fig/gdp_covid_disruption.png){#fig-recovery width=100%}
 
 Direct investment in both industries has increased substantially since the COVID-19 pandemic, reaching their highest levels during 2021--2025 (@fig-investment). However, the two industries exhibit markedly different investment structures. The textile and garment industry draws from a relatively broader investment base, with domestic investors accounting for between 19 and 61 percent of total realized investment during 2010--2025. In contrast, the footwear industry remains heavily dependent on foreign direct investment (FDI), with foreign investors consistently contributing around 90 percent or more of total investment throughout most of the period.
 
-![Foreign and domestic direct investment in the textile and footwear industries, 2010--2025. Source: Statistics Indonesia (BPS), accessed through CEIC.](fig/investment_comparison.png){#fig-investment width=100%}
+![Foreign and domestic direct investment in the textile and footwear industries, 2010--2025. Source: BPS, accessed through CEIC.](fig/investment_comparison.png){#fig-investment width=100%}
 
 Investment growth has been particularly pronounced in the footwear industry. Between 2020 and 2025, total realized investment increased from approximately USD 241 million to more than USD 1.6 billion. Over the same period, investment in the textile and garment industry rose from around USD 424 million to USD 1.25 billion. As a result, by 2025 the footwear industry attracted higher levels of investment than the textile and garment industry despite being considerably smaller in terms of output. The predominance of foreign investment in the footwear industry is consistent with its strong participation in export-oriented production networks, while the textile and garment industry continues to benefit from a more diversified mix of domestic and foreign investment.
 
@@ -179,7 +179,7 @@ This has given rise to a form of economic dualism within Indonesia's textile and
 
 Indonesia's textile industry spans the full length of the smile curve, and consists of a vertically integrated production chain extending from upstream raw material processing to downstream garment manufacturing and retail activities (@fig-textilechain). Upstream segments, including the processing of petrochemical inputs such as PTA/MEG, polyester fiber production and yarn spinning, tend to be capital and energy intensive. Meanwhile, production becomes more labor-intensive moving downstream, culminating in garment manufacturing and the retail sector. This structural distinction has direct implications for the types of value added generated, the employment profiles supported and the nature of competitive pressures faced at each stage.
 
-![Structure of the textile industry value chain. Source: Statistics Indonesia (BPS), International Textile Manufacturers Federation.](fig/textile_value_chain.png){#fig-textilechain width=100%}
+![Structure of the textile industry value chain. Source: BPS, International Textile Manufacturers Federation.](fig/textile_value_chain.png){#fig-textilechain width=100%}
 
 Indonesia's upstream textile segments demonstrate a relatively strong export orientation. Fiber and yarn production export shares reach 73% and 52%, respectively (@fig-textilechain). By contrast, downstream activities such as garment manufacturing export 20.00% of their total production. However, employment increases along the value chain, rising from approximately 10,000 workers in raw material processing (PTA/MEG) to more than 1.29 million workers in garment manufacturing.
 
@@ -187,7 +187,7 @@ The complementary roles performed across different segments of the value chain u
 
 The geographic distribution of Indonesia's textile industry indicates that production activity remains heavily concentrated on the island of Java (@fig-maptextile). Of the 761 textile firms recorded, nearly 57% are located in West Java, serving as the primary hub of Indonesia's textile industry, supported by the availability of labor, supporting infrastructure, and proximity to markets and supply chains. Central Java (18%) and Banten (10%) also play important roles as major industrial clusters, while East Java (9.2%) continues to contribute through its concentration of medium-scale industries. Together, these provinces form the core of Indonesia's textile manufacturing base.
 
-![Distribution map of companies in the textile industry. Source: Statistics Indonesia, author's calculation.](fig/map_textile.png){#fig-maptextile width=100%}
+![Distribution map of companies in the textile industry. Source: BPS, author's calculation.](fig/map_textile.png){#fig-maptextile width=100%}
 
 Outside of Java (2.37%), textile manufacturers are far fewer in number and more geographically dispersed. Many of these enterprises have emerged from local traditions such as weaving and textile handicrafts. This illustrates the structural heterogeneity at the firm-level where large scale, GVC-integrated manufacturers coexist alongside domestically oriented producers, MSMEs and artisanal enterprises, each facing distinct competitive conditions and policy needs.
 
@@ -219,7 +219,7 @@ The strategic challenges facing Indonesia's textile and footwear industry are sh
 
 @fig-trade illustrates the first implication. Although Indonesia has developed a substantial upstream textile industry, the country continues to simultaneously import and export significant volumes of textile raw materials and intermediate goods. The rayon industry provides a useful example. Indonesia is a competitive producer of viscose-based products, yet firms in this segment remain deeply integrated into international markets. Asia Pacific Rayon (APR), for instance, exports 61% of its Viscose Staple Fibre (VSF) production and 71% of its Viscose Yarn output, while Indonesia continues to import rayon and yarn products from abroad [@aprayon2024].
 
-![Exports and imports of textile and footwear-related goods[^2]. Each panel shows Indonesia's trade value in billion USD by year, split by product stage (raw materials, intermediates, finished goods) and flow (import, export). Source: UN COMTRADE.](fig/trade_by_type.png){#fig-trade width=90%}
+![Exports and imports of textile and footwear-related goods[^2]. Each panel shows Indonesia's trade value in billion USD by year, split by product stage (raw materials, intermediates, finished goods) and flow (import, export). Source: UN COMTRADE.](fig/trade_by_type.png){#fig-trade width=75%}
 
 [^2]: Raw materials are defined as HS Code chapters 50--55; intermediate goods cover chapters 56, 58, 59, and 60; and finished goods encompass chapters 61--64.
 
@@ -287,7 +287,7 @@ Automation is also becoming increasingly important, not necessarily as a substit
 
 The textile, garment, and footwear industries remain among Indonesia's most important manufacturing employers. Total employment increased from 4.1 million workers in 2020 to more than 5.0 million in 2025, equivalent to approximately one-quarter of formal manufacturing employment nationwide [@bps2025sakernas]. Textile and garment manufacturing continues to dominate employment within the sector, accounting for nearly four million workers in 2025. Nevertheless, the fastest employment growth occurred in the footwear industry, where the workforce expanded by around 60 percent between 2020 and 2025, compared with approximately 15--20 percent growth in textile and garment manufacturing in the same period (@fig-workers).
 
-![Number of workers in Indonesia's labor-intensive industries, 2020--2025. Source: BPS, Sakernas.](fig/workers.png){#fig-workers width=85%}
+![Number of workers in Indonesia's labor-intensive industries (million), 2020--2025. Source: BPS, Sakernas.](fig/workers.png){#fig-workers width=70% fig-pos="H"}
 
 The growth in employment naturally raises concerns about whether labor supply can keep pace with industry demand. However, available workforce projections suggest that Indonesia is unlikely to face a shortage of workers for either industry. According to projections from the Ministry of Manpower, the annual supply of vocational graduates (SMK and Vocational graduates) relevant to the textile and footwear industries is expected to continue growing through 2029. For textiles and garments, the supply of graduates is projected to increase from approximately 624,802 in 2025 to 765,763 in 2029, equivalent to average annual growth of 5.2 percent. Footwear-related graduates are projected to rise from around 133,232 to approximately 183 thousand over the same period, representing annual growth of 8.3 percent (@fig-workforce).
 
@@ -359,4 +359,4 @@ Ultimately, Indonesia's opportunity is not simply to attract more textile and fo
 
 # Reproducibility Statement {.unnumbered}
 
-The source files for this paper are hosted at <https://github.com/imedkrisna/tekstil>. All data-driven figures (@fig-growth, @fig-recovery, @fig-investment, @fig-globalimport, @fig-smile, @fig-trade) are generated by the Jupyter notebook `fig/fig.ipynb` from the Excel files in the `fig/` folder. The market shares in @tbl-shares are computed in the same notebook from bilateral UN COMTRADE data (`TradeData.xlsx`), which is not redistributed in the repository; the notebook preserves the computed output. The remaining figures (value chain diagrams, maps, and charts based on DEN fieldwork and third-party databases) are included as static images in `fig/`.
+The source files for this paper are hosted at <https://github.com/imedkrisna/tekstil>. All data-driven figures (@fig-growth, @fig-recovery, @fig-investment, @fig-globalimport, @fig-smile, @fig-trade, @fig-workers) are generated by the Jupyter notebook `fig/fig.ipynb` from the Excel files in the `fig/` folder; the Sakernas employment counts behind @fig-workers are entered directly in the notebook. The market shares in @tbl-shares are computed in the same notebook from bilateral UN COMTRADE data (`TradeData.xlsx`), which is not redistributed in the repository; the notebook preserves the computed output. The remaining figures (value chain diagrams, maps, and charts based on DEN fieldwork and third-party databases) are included as static images in `fig/`; the two maps were cropped from the originals, which are kept in the same folder with an `_original` suffix.
