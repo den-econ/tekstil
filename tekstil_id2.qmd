@@ -1,0 +1,352 @@
+---
+title: "Revitalisasi Industri Padat Karya Indonesia: Tekstil, Pakaian Jadi, dan Alas Kaki di Tengah Tekanan Rantai Nilai Global"
+format: den-paper-pdf
+
+# Manuscript settings
+manuscript: article
+layout: publish
+year: 2026
+volume: 1
+published: "22 Juli 2026"
+
+# Affiliations
+affiliations:
+  - id: den
+    url: https://dewanekonomi.go.id
+    name: "Dewan Ekonomi Nasional"
+    address: "Jl. M.H. Thamrin No. 8"
+    postal-code: "10340"
+    city: "Jakarta"
+    country: "Indonesia"
+
+# Authors
+author:
+  - name: "Ahmad Nugroho"
+    affiliations:
+      - ref: den
+  - name: "Annisa Tikahardinda"
+    affiliations:
+      - ref: den
+  - name: "Artstein Dhimathera"
+    affiliations:
+      - ref: den
+  - name: "Gaffari Ramadhan"
+    affiliations:
+      - ref: den
+  - name: "Krisna Gupta"
+    orcid: "0000-0001-8695-0514"
+    affiliations:
+      - ref: den
+    email: "krisna@dewanekonomi.go.id"
+    corresponding: true
+  - name: "Latasha Safira"
+    affiliations:
+      - ref: den
+  - name: "Shobrina Arifin"
+    affiliations:
+      - ref: den
+  - name: "Tiara Ariyanda"
+    affiliations:
+      - ref: den
+
+# Keywords (maximum five)
+keywords:
+  - tekstil dan pakaian jadi
+  - alas kaki
+  - rantai nilai global
+  - kebijakan industri
+  - Indonesia
+
+# JEL classification codes
+jel:
+  - F14
+  - L67
+  - O25
+
+# Abstract (300 words or fewer)
+abstract: |
+  Makalah ini membahas perkembangan dan daya saing industri tekstil & pakaian jadi dan alas kaki Indonesia. Industri-industri ini merupakan sumber penting bagi lapangan kerja formal dan sangat terintegrasi ke dalam jaringan produksi global. Makalah ini mengulas perkembangan terkini dalam investasi, perdagangan, teknologi, kesiapan tenaga kerja, serta membahas tantangan utama yang memengaruhi daya saing industri. Makalah ini juga menyoroti bahwa industri tekstil dan alas kaki terdiri dari beragam perusahaan yang beroperasi di bawah model bisnis yang berbeda dan menghadapi kendala yang berbeda di sepanjang rantai nilai. Perbedaan ini memiliki implikasi penting bagi perancangan kebijakan yang ditujukan untuk mendukung daya saing industri dan pertumbuhan lapangan kerja.
+
+# Bibliography file
+lang: id
+bibliography: ref.bib
+csl: csl.csl
+citation: true
+nocite: |
+  @kartasasmita2025, @kemenko2025, @kemenkeu2024, @kemenkeu2025,
+  @kemenperin2025, @kumparan2026, @setiawan2025
+---
+
+# Pendahuluan
+
+Penciptaan lapangan kerja formal tetap menjadi salah satu tantangan pembangunan ekonomi utama Indonesia. Data Badan Pusat Statistik (BPS) menunjukkan bahwa meskipun tingkat pengangguran terbuka menurun dari 4,91 persen pada Agustus 2024 menjadi 4,85 persen pada Agustus 2025, lapangan kerja informal terus tumbuh lebih cepat daripada lapangan kerja formal. Pada saat yang sama, proporsi pekerja penuh waktu menunjukkan tren penurunan dalam beberapa tahun terakhir [@bps2025tpt; @lubis2025]. Perkembangan ini menunjukkan bahwa kinerja pasar tenaga kerja tidak hanya harus dinilai dari jumlah lapangan kerja yang diciptakan, tetapi juga dalam hal kualitas dan formalitas kesempatan kerja.
+
+Dalam konteks ini, industri tekstil & pakaian jadi, serta alas kaki menempati posisi strategis dalam perekonomian Indonesia. Pada tahun 2025, kedua industri ini mempekerjakan lebih dari lima juta pekerja, setara dengan sekitar seperempat tenaga kerja manufaktur formal di Indonesia. Kontribusi mereka terhadap lapangan kerja jauh lebih besar dibandingkan dengan kontribusinya terhadap output manufaktur, yang mencerminkan sifat padat karya dari proses produksinya. Berdasarkan data BPS, industri-industri ini juga menghasilkan jauh lebih banyak lapangan kerja per unit investasi dibandingkan sebagian besar sektor manufaktur lainnya. Akibatnya, perkembangan industri tekstil dan alas kaki memiliki implikasi langsung terhadap penciptaan lapangan kerja formal, pendapatan rumah tangga, dan inklusi ekonomi yang lebih luas.
+
+Pada saat yang sama, industri ini menghadapi serangkaian tantangan yang kompleks. Dalam beberapa tahun terakhir, produsen tekstil dan alas kaki telah terdampak oleh melambatnya permintaan global, persaingan internasional yang semakin ketat, persyaratan keberlanjutan yang semakin ketat di pasar ekspor utama, dan perlunya peningkatan teknologi serta perbaikan produktivitas yang berkelanjutan. Tekanan-tekanan ini tercermin dalam penutupan pabrik dan pemutusan hubungan kerja (PHK) yang dilaporkan sejak tahun 2023. Namun, terlepas dari tantangan-tantangan ini, industri tersebut terus menarik investasi baru, terutama dari perusahaan yang terintegrasi ke dalam rantai nilai global (GVC) dan memasok merek internasional. Kontradiksi yang tampak ini menunjukkan bahwa tantangan yang dihadapi sektor ini tidak dapat dipahami semata-mata sebagai masalah penurunan daya saing. Sebaliknya, hal itu mencerminkan proses transformasi industri yang sedang berlangsung, yang membentuk kembali industri tekstil dan alas kaki Indonesia.
+
+Makalah ini mengkaji dinamika tersebut secara lebih rinci. Bagian 2 mengulas karakteristik industri tekstil dan alas kaki Indonesia, termasuk struktur rantai nilai, pola investasi, keterkaitan perdagangan, dan heterogenitas industrinya. Bagian 3 membahas isu-isu strategis utama yang memengaruhi daya saing industri, termasuk perdagangan internasional, persyaratan keberlanjutan dan ketertelusuran, modernisasi teknologi, dan kesiapan tenaga kerja. Bagian 4 mengulas kebijakan pemerintah dan program dukungan yang relevan dengan pengembangan sektor ini. Bagian 5 adalah kesimpulan.
+
+# Karakteristik Industri Tekstil & Pakaian Jadi dan Alas Kaki
+
+## Gambaran Umum
+
+Gambar @fig-growth menunjukkan pertumbuhan nilai tambah kuartalan industri tekstil dan pakaian jadi serta industri kulit dan alas kaki, dibandingkan dengan manufaktur non-migas dan pertumbuhan ekonomi secara umum. Industri tekstil dan pakaian jadi Indonesia tumbuh sebesar 3,55% pada tahun 2025, dibandingkan dengan 4,26% pada tahun 2024. Industri kulit, barang dari kulit, dan alas kaki mencatat pertumbuhan sebesar 3,31 persen pada tahun 2025, setelah ekspansi yang jauh lebih kuat sebesar 6,83 persen pada tahun 2024. Meskipun terjadi perlambatan pada tahun 2025, industri alas kaki secara umum mengungguli industri tekstil selama periode pemulihan pascapandemi. Secara lebih luas, kedua industri ini telah menunjukkan volatilitas yang signifikan selama satu dekade terakhir, yang mencerminkan pergeseran permintaan global dan gangguan yang terkait dengan pandemi COVID-19.
+
+![Tren pertumbuhan di sektor tekstil, alas kaki, dan manufaktur, 2010--2025. Sumber: BPS.](fig/gdp_growth_quarterly.png){#fig-growth width=85%}
+
+Seperti yang ditunjukkan oleh Gambar @fig-recovery, lebih dari empat tahun setelah merebaknya pandemi, kedua industri tersebut mengalami kisah yang sangat berbeda. Gambar tersebut menyajikan PDB harga konstan untuk industri tekstil & pakaian jadi dan alas kaki. Garis oranye solid mewakili data PDB aktual, sedangkan garis putus-putus menunjukkan tren pra-COVID yang diestimasi menggunakan metode filter HP [@hodrick1997; @razzak1997]. Industri alas kaki tampaknya mampu kembali ke jalur pertumbuhan jangka panjangnya. Namun, industri tekstil dan pakaian jadi masih berjuang untuk mengejar lintasan pra-COVID-nya.
+
+![Proyeksi pemulihan pascapandemi industri tekstil dan alas kaki relatif terhadap tren pra-COVID. Sumber: BPS](fig/gdp_covid_disruption_quarterly.png){#fig-recovery width=100%}
+
+Investasi langsung di kedua industri tersebut telah meningkat secara substansial sejak pandemi COVID-19, mencapai level tertinggi selama tahun 2021--2025 (Gambar @fig-investment). Namun, kedua industri tersebut menunjukkan struktur investasi yang sangat berbeda. Industri tekstil dan pakaian jadi menarik dari basis investasi yang relatif lebih luas, di mana investor domestik menyumbang antara 19 hingga 61 persen dari total realisasi investasi selama 2010--2025. Sebaliknya, industri alas kaki tetap sangat bergantung pada Penanaman Modal Asing (PMA), di mana investor asing secara konsisten menyumbang sekitar 90 persen atau lebih dari total investasi selama sebagian besar periode tersebut.
+
+![Penanaman modal langsung asing (PMA) dan dalam negeri (PMDN) pada industri tekstil dan alas kaki, 2010--2025. Sumber: BPS, diakses melalui CEIC.](fig/investment_comparison.png){#fig-investment width=100%}
+
+Pertumbuhan investasi sangat menonjol di industri alas kaki. Antara tahun 2020 dan 2025, total realisasi investasi meningkat dari sekitar USD 241 juta menjadi lebih dari USD 1,6 miliar. Pada periode yang sama, investasi di industri tekstil dan pakaian jadi meningkat dari sekitar USD 424 juta menjadi USD 1,25 miliar. Hasilnya, pada tahun 2025 industri alas kaki menarik tingkat investasi yang lebih tinggi daripada industri tekstil dan pakaian jadi meskipun ukurannya jauh lebih kecil dalam hal output. Dominasi investasi asing di industri alas kaki sejalan dengan partisipasinya yang kuat dalam jaringan produksi berorientasi ekspor, sementara industri tekstil dan pakaian jadi terus mendapat manfaat dari bauran investasi domestik dan asing yang lebih terdiversifikasi.
+
+Pentingnya industri-industri ini juga tecermin dalam kinerja ekspornya. Pada tahun 2025, industri tekstil dan pakaian jadi Indonesia mencatat nilai ekspor sebesar USD 11,98 miliar dan menghasilkan surplus perdagangan sebesar USD 2,81 miliar. Nilai ekspor sedikit menurun sebesar 0,6 persen (yoy), dibandingkan dengan pertumbuhan sebesar 3,1 persen pada tahun 2024.
+
+Sebaliknya, industri alas kaki terus mencatat kinerja ekspor yang kuat. Ekspor alas kaki mencapai USD 7,98 miliar pada tahun 2025, meningkat sebesar 9,54 persen (yoy), dibandingkan dengan pertumbuhan 13,13 persen pada tahun 2024. Dengan impor yang mencapai sekitar USD 1,32 miliar, industri ini mempertahankan surplus perdagangan yang substansial. Angka-angka ini menegaskan pentingnya kedua industri ini sebagai sumber penerimaan ekspor yang berkelanjutan, sekaligus menyoroti momentum ekspor yang lebih kuat yang saat ini terlihat di industri alas kaki.
+
+Perdagangan internasional memainkan peran yang sangat penting di industri tekstil dan alas kaki. Menggunakan Tabel Multi-Regional Input-Output (MRIO) dari Asian Development Bank (ADB) [@adb2025mrio], dapat diestimasi bahwa sekitar 41,88 persen output dari industri tekstil pada akhirnya dialokasikan ke pasar ekspor, sementara angka yang setara untuk industri alas kaki mencapai 92,81 persen. Input impor juga tetap menjadi komponen produksi yang krusial. Berdasarkan estimasi yang diturunkan dari kerangka MRIO yang sama, nilai barang dan jasa bersumber asing menyumbang sekitar 72,88 persen dari total input antara yang digunakan di industri tekstil dan 84,23 persen di industri alas kaki. Angka-angka ini menyoroti sejauh mana kedua industri tersebut terintegrasi ke dalam jaringan produksi regional dan global, baik sebagai eksportir maupun sebagai pengguna input bersumber internasional.
+
+Amerika Serikat dan Uni Eropa tetap menjadi dua pasar terpenting untuk produk jadi tekstil dan alas kaki global. Bersama-sama, mereka menyumbang sekitar 64,2 persen dari impor global produk-produk di bawah Bab HS 61--64 pada tahun 2025, yang utamanya terdiri dari pakaian jadi, barang tekstil jadi lainnya, dan alas kaki (Gambar @fig-globalimport). Uni Eropa adalah pengimpor produk ini terbesar di dunia, menyumbang 47,1 persen dari total impor global, diikuti oleh Amerika Serikat sebesar 17,1 persen.
+
+![Pasar impor global untuk pakaian jadi dan alas kaki berdasarkan wilayah, 2023--2025 (AS, UE, Asia, dan Seluruh Dunia Lainnya (RoW)). Sumbu y menunjukkan total nilai impor dalam miliar USD; label menunjukkan pangsa masing-masing wilayah terhadap impor global. Sumber: UN Comtrade.](fig/fig1.png){#fig-globalimport width=85%}
+
+Selain perannya sebagai pasar ekspor utama, Uni Eropa juga memainkan peran penting dalam membentuk standar produksi global melalui inisiatif regulasi seperti Ecodesign for Sustainable Products Regulation (ESPR) [@ec2024espr; @yan2025]. Akibatnya, persyaratan keberlanjutan dan ketertelusuran (traceability) menjadi semakin penting bagi eksportir tekstil dan alas kaki Indonesia yang ingin mengakses pasar Eropa.
+
+Tabel @tbl-shares mengilustrasikan bagaimana persaingan di pasar ekspor ini telah berevolusi selama satu dekade terakhir. Antara tahun 2015 dan 2024, pangsa pasar Tiongkok terhadap impor tekstil dan alas kaki menurun secara substansial baik di Amerika Serikat maupun Uni Eropa. Di AS, pangsa pasar Tiongkok turun dari 44,00% menjadi 29,22%, sedangkan di Uni Eropa, menurun dari 39,09% menjadi 30,70%. Penerima manfaat terbesar dari pergeseran ini adalah Vietnam dan Bangladesh, di mana kedua negara ini mengalami peningkatan pangsa pasar yang signifikan. Indonesia mencatat peningkatan moderat di Amerika Serikat dan sedikit penurunan di Uni Eropa. Tren ini menunjukkan bahwa meskipun ada peluang bagi Indonesia untuk merebut porsi permintaan global yang lebih besar, produsen regional secara umum lebih berhasil dalam memperluas pangsa pasar mereka.
+
+| Mitra | AS 2015 | AS 2024 | AS ∆ (ppt) | UE 2015 | UE 2024 | UE ∆ (ppt) |
+|---------|--------:|--------:|-----------:|--------:|--------:|-----------:|
+| Tiongkok   | 44,00 | 29,22 | -14,78 | 39,09 | 30,70 | -8,39 |
+| Vietnam    | 11,80 | 19,16 |   7,36 |  5,95 |  8,64 |  2,68 |
+| India      |  5,14 |  6,52 |   1,38 |  6,89 |  5,37 | -1,53 |
+| Bangladesh |  4,37 |  6,03 |   1,66 | 13,12 | 16,07 |  2,95 |
+| Indonesia  |  5,04 |  5,46 |   0,42 |  2,66 |  2,15 | -0,52 |
+| Meksiko    |  3,84 |  3,71 |  -0,13 |  0,10 |  0,10 |  0,00 |
+| Pakistan   |  2,24 |  3,01 |   0,76 |  3,46 |  4,77 |  1,31 |
+| Turkiye    |  0,55 |  0,95 |   0,41 |  9,73 |  9,05 | -0,67 |
+
+: Perubahan pangsa pasar ekspor AS dan UE (persen), 2015--2024. Sumber: UN COMTRADE, perhitungan penulis. {#tbl-shares}
+
+Penting untuk dicatat bahwa secara keseluruhan, Indonesia tetap relatif kompetitif di beberapa komponen biaya, khususnya dalam biaya energi dan air. Tabel @tbl-costs membandingkan indikator-indikator biaya produksi utama di berbagai negara produsen utama tekstil dan alas kaki. Tingkat upah di Indonesia juga masih di bawah Tiongkok dan secara umum sebanding dengan India. Indonesia menempati posisi yang relatif kompetitif sebagai basis manufaktur, meskipun keunggulannya tidak merata di semua komponen biaya. Oleh karena itu, keuntungan pangsa pasar ekspor Indonesia yang relatif sederhana tidak dapat dijelaskan hanya dengan biaya produksi. Faktor-faktor lain seperti integrasi rantai pasokan, adopsi teknologi, kualitas produk, dan kepatuhan terhadap persyaratan pasar yang terus berkembang, juga kemungkinan besar memainkan peran penting dalam membentuk daya saing.
+
+| Negara | Upah Bulanan (USD) | Tarif Listrik (US¢/kWh) | Biaya Air Baku (US¢/m³) | Biaya Modal (% per tahun) | Biaya Bangunan (USD/m²) |
+|------------|-----:|-----:|----:|-------:|----:|
+| Indonesia  | 220  | 8    | 15  | 10%    | 263 |
+| Vietnam    | 275  | 7,5  | 50  | 6,50%  | 325 |
+| Bangladesh | 140  | 10   | 40  | 8%     | 252 |
+| Pakistan   | 125  | 15   | 11  | 21%\*  | 303 |
+| India      | 220  | 10   | 37  | 11%\*  | 200 |
+| Tiongkok   | 600  | 12   | 18  | 4,50%  | 224 |
+
+: Perbandingan biaya produksi di Indonesia, Vietnam, Bangladesh, Pakistan, India, dan Tiongkok (USD dan US¢). Sumber: Basis data Gherzi, WTO dan ADB, diakses melalui @ramadhan2025. \* Terdapat insentif suku bunga untuk investasi modal dan modernisasi teknologi. {#tbl-costs}
+
+## Kurva Senyum, Rantai Nilai Global, dan Dualisme Ekonomi
+
+Industri tekstil dan alas kaki dicirikan oleh rantai nilai yang menyerupai parabola, yang umum disebut sebagai "kurva senyum" karena bentuknya, sebagaimana diilustrasikan oleh Gambar @fig-smile [@baldwin2021smile; @goto2023]. Sumbu horizontal merepresentasikan proses produksi dari kegiatan hulu hingga hilir, sedangkan sumbu vertikal merepresentasikan nilai tambah yang dihasilkan pada setiap tahap produksi. Di kedua industri, nilai tambah cenderung terkonsentrasi di ujung hulu dan hilir dari rantai nilai (seperti aktivitas branding, desain, pemasaran, dan layanan pascaproduksi), sementara aktivitas manufaktur (khususnya operasi potong-jahit-rapi atau cut-make-trim (CMT)) umumnya menghasilkan nilai tambah yang lebih rendah.
+
+![Ilustrasi kurva senyum pada industri tekstil dan alas kaki. Sumber: @goto2023, perhitungan penulis.](fig/smile_curve_english.png){#fig-smile width=90%}
+
+Kemajuan dalam perdagangan, komunikasi, dan logistik telah memungkinkan tahap produksi yang berbeda untuk difragmentasi secara geografis di berbagai negara. Kegiatan dengan nilai tambah yang lebih tinggi cenderung terkonsentrasi di negara-negara dengan kapabilitas desain, branding, teknologi, dan layanan khusus yang lebih kuat, sementara aktivitas manufaktur padat karya sering dilakukan di negara-negara dengan ketersediaan tenaga kerja produksi umum yang besar. Karena proses produksi sering kali melintasi batas-batas negara beberapa kali sebelum produk mencapai konsumen akhir, fenomena ini umum disebut sebagai Rantai Nilai Global (GVC) [@feenstra2021; @gereffi2010; @gupta2022gvc].
+
+Banyak perusahaan tekstil dan alas kaki yang beroperasi di Indonesia terintegrasi ke dalam GVC ini. Perusahaan-perusahaan ini biasanya berfungsi sebagai produsen kontrak untuk merek global seperti Nike, Adidas, H&M, dan Uniqlo (sering disebut sebagai pembeli atau prinsipal). Para prinsipal pada akhirnya mempertahankan kendali atas desain produk, standar kualitas, keputusan pengadaan, logistik, dan pemasaran, sementara pihak manufaktur terutama menyediakan layanan produksi. Penting untuk dicatat bahwa baik bahan baku maupun barang jadi umumnya tetap menjadi milik prinsipal di sepanjang proses produksi. Oleh karena itu, statistik ekspor Indonesia mana pun hanya akan mencatat biaya manufaktur, bukan nilai bawaan yang lebih tinggi yang berasal dari, misalnya, desain dan branding.
+
+Pada akhirnya, Indonesia terutama berpartisipasi dalam segmen manufaktur dari rantai nilai ini, di mana nilai tambahnya relatif rendah, sementara kegiatan yang bernilai lebih tinggi seperti branding, desain, dan pemasaran tetap terkonsentrasi di perusahaan utama global. Sebagai akibatnya, nilai ekspor (diukur dalam basis Free on Board) terutama mencatat tahap manufaktur dari produksi yang dilakukan di Indonesia. Ini tidak mencerminkan nilai eceran yang secara substansial lebih tinggi yang dihasilkan dalam tahap hilir rantai nilai tersebut.
+
+Mengingat integrasi mereka ke dalam rantai nilai global, Kawasan Berikat memainkan peran penting dalam mendukung industri tekstil dan alas kaki berorientasi ekspor di Indonesia. Berdasarkan Peraturan Menteri Keuangan No. 131/2018, Kawasan Berikat adalah kawasan yang ditetapkan di mana barang impor dan/atau pasokan lokal yang akan diproses dapat disimpan sebelum diekspor atau digunakan di dalam negeri. Fasilitas yang terletak di Kawasan Berikat mendapat manfaat dari pengurangan beban administratif dan pajak terkait dengan pengimporan mesin dan input produksi, sehingga mendukung daya saing para produsen berorientasi ekspor. Menurut @masitoh2024, 453 dari 1455 perusahaan yang menerima fasilitas Kawasan Berikat adalah perusahaan tekstil dan pakaian jadi, setara dengan 11,60% dari seluruh perusahaan tekstil dan pakaian jadi di Indonesia.
+
+Bersamaan dengan perusahaan-perusahaan yang terintegrasi secara global ini, Indonesia juga memiliki sejumlah besar produsen domestik independen yang tidak terintegrasi langsung ke dalam GVC. Berbeda dengan produsen kontrak yang berorientasi ekspor, perusahaan-perusahaan ini biasanya beroperasi di bawah merek mereka sendiri, mengadakan input mereka sendiri, dan memasarkan produk mereka langsung ke pengecer dan konsumen. Mereka sangat beragam, mulai dari produsen skala menengah yang memasok jaringan ritel domestik, hingga usaha kecil dan mikro, serta produsen artisanal yang berakar pada tradisi kerajinan daerah.
+
+Kelompok ini umumnya berorientasi pada pasar domestik dan terutama mengandalkan investasi dalam negeri. Selain itu, banyak dari produsen ini memiliki akses terbatas terhadap kapabilitas desain eksklusif atau teknologi produksi yang maju, dan mengandalkan input serta mesin impor yang mungkin tidak tercakup oleh fasilitas yang tersedia bagi operator Kawasan Berikat. Proses produksi mereka cenderung kurang kompleks dan mematuhi lebih sedikit persyaratan kepatuhan yang terkait dengan standar kualitas yang diberlakukan oleh pembeli global atau bahkan ESPR.
+
+Hal ini memunculkan suatu bentuk dualisme ekonomi di dalam industri tekstil dan alas kaki Indonesia. Di satu sisi, terdapat perusahaan skala besar, sering kali dengan modal asing, yang terintegrasi ke dalam GVC dan terkait dengan pembeli internasional. Di sisi lain, terdapat perusahaan kecil dan pengrajin yang terutama melayani pasar domestik. Kedua kelompok ini sangat berbeda dalam hal model bisnis, struktur produksi, dan tantangan kompetitif. Akibatnya, intervensi kebijakan yang efektif untuk eksportir yang terintegrasi secara global mungkin tidak mengatasi dan/atau menangkap kendala yang dihadapi oleh produsen yang berorientasi domestik, dan sebaliknya. Mengenali perbedaan ini sangatlah penting untuk pembuatan kebijakan yang efektif. Sementara itu, untuk memahami akar struktural yang lebih dalam memerlukan pemeriksaan tentang bagaimana posisi Indonesia dalam rantai global.
+
+## Gambaran Umum Industri Tekstil & Pakaian Jadi
+
+Industri tekstil Indonesia membentang di sepanjang kurva senyum, dan terdiri dari rantai produksi terintegrasi vertikal yang memanjang dari pemrosesan bahan baku di hulu hingga manufaktur pakaian jadi dan aktivitas ritel di hilir (Gambar @fig-textilechain). Segmen hulu, termasuk pemrosesan input petrokimia seperti PTA/MEG, produksi serat poliester, dan pemintalan benang, cenderung padat modal dan energi. Sementara itu, produksi menjadi semakin padat karya saat bergerak ke arah hilir, berpuncak pada pembuatan pakaian jadi dan sektor ritel. Pembedaan struktural ini memiliki implikasi langsung terhadap jenis nilai tambah yang dihasilkan, profil pekerjaan yang didukung, dan sifat tekanan kompetitif yang dihadapi pada setiap tahap.
+
+![Struktur rantai nilai industri tekstil. Sumber: BPS, International Textile Manufacturers Federation.](fig/textile_value_chain.png){#fig-textilechain width=100%}
+
+Segmen tekstil hulu Indonesia menunjukkan orientasi ekspor yang relatif kuat. Pangsa ekspor produksi serat dan benang masing-masing mencapai 73% dan 52% (Gambar @fig-textilechain). Sebaliknya, kegiatan hilir seperti manufaktur pakaian jadi mengekspor 20,00% dari total produksinya. Namun, serapan tenaga kerja meningkat di sepanjang rantai nilai, naik dari sekitar 10.000 pekerja dalam pengolahan bahan baku (PTA/MEG) menjadi lebih dari 1,29 juta pekerja dalam industri pakaian jadi.
+
+Peran saling melengkapi yang dijalankan di berbagai segmen rantai nilai menggarisbawahi kepentingan strategis industri tekstil yang lebih luas. Segmen hulu berkontribusi pada pendapatan ekspor dan integrasi ke dalam GVC, sementara segmen hilir berfungsi sebagai sumber utama lapangan kerja formal dan pendapatan. Perbedaan-perbedaan ini menyoroti perlunya pendekatan kebijakan yang berbeda yang mengenali kendala, kapabilitas, dan peluang spesifik yang dihadapi perusahaan di berbagai segmen rantai nilai.
+
+Distribusi geografis industri tekstil Indonesia menunjukkan bahwa aktivitas produksi masih sangat terkonsentrasi di Pulau Jawa (Gambar @fig-maptextile). Dari 761 perusahaan tekstil yang tercatat, hampir 57% berlokasi di Jawa Barat, yang berfungsi sebagai pusat utama industri tekstil Indonesia, didukung oleh ketersediaan tenaga kerja, infrastruktur pendukung, dan kedekatan dengan pasar serta rantai pasokan. Jawa Tengah (18%) dan Banten (10%) juga memainkan peran penting sebagai klaster industri utama, sementara Jawa Timur (9,2%) terus berkontribusi melalui konsentrasi industri skala menengahnya. Bersama-sama, provinsi-provinsi ini membentuk inti basis manufaktur tekstil Indonesia.
+
+![Peta distribusi perusahaan pada industri tekstil. Sumber: BPS, perhitungan penulis.](fig/map_textile.png){#fig-maptextile width=100%}
+
+Di luar Jawa (2,37%), produsen tekstil jauh lebih sedikit jumlahnya dan lebih tersebar secara geografis. Banyak dari perusahaan-perusahaan ini muncul dari tradisi lokal seperti menenun dan kerajinan tekstil. Hal ini menggambarkan heterogenitas struktural di tingkat perusahaan di mana produsen skala besar yang terintegrasi GVC hidup berdampingan dengan produsen yang berorientasi domestik, UMKM, dan perusahaan artisanal, yang masing-masing menghadapi kondisi kompetitif dan kebutuhan kebijakan yang berbeda.
+
+## Gambaran Umum Industri Alas Kaki
+
+Industri alas kaki Indonesia secara serupa dicirikan oleh proses produksi multilangkah yang mencakup pemasok bahan baku, produsen komponen, perakitan alas kaki, dan distribusi ke konsumen akhir (Gambar @fig-footwearchain; Gambar @fig-footwearprocess). Input seperti kulit, karet, tekstil, bahan sintetis, dan komponen kimia diubah menjadi bagian-bagian alas kaki sebelum dirakit menjadi produk akhir. Walaupun penciptaan nilai dalam industri ini melampaui manufaktur hingga mencakup aktivitas seperti desain, pengembangan produk, branding, dan inovasi, kegiatan produksi tetap menjadi segmen dominan yang dijalankan di Indonesia.
+
+![Rantai pasokan alas kaki. Sumber: Gereffi (1994); Stacey (2019).](fig/footwear_supply_chain.png){#fig-footwearchain width=100%}
+
+![Proses produksi pabrik pada industri alas kaki. Sumber: DEN (2025), berdasarkan kunjungan lapangan dan wawancara dengan produsen alas kaki.](fig/footwear_production_process.png){#fig-footwearprocess width=100%}
+
+Banyak dari produsen alas kaki Indonesia terintegrasi ke dalam GVC, memasok merek-merek internasional melalui jaringan produksi berorientasi ekspor. Seperti disebutkan sebelumnya, perusahaan-perusahaan ini biasanya mengkhususkan diri dalam kegiatan manufaktur di dalam rantai nilai tersebut, sementara fungsi-fungsi dengan nilai tambah yang lebih tinggi sering dijalankan oleh perusahaan utama global. Ketergantungan industri alas kaki yang besar pada PMA (menyumbang sekitar 90% dari total investasi) mencerminkan integrasi yang dalam ini ke dalam jaringan produksi internasional.
+
+Pada saat yang sama, industri alas kaki Indonesia terus menghadapi tantangan struktural di segmen hulu. Ketergantungan pada input impor tetap tinggi, diperkirakan antara 60--70% [@kemenperin2024]. Sejalan dengan kerangka kurva senyum, keunggulan komparatif Indonesia masih terkonsentrasi pada kegiatan produksi hilir, sementara kapabilitas hulu relatif masih belum berkembang. Hal ini menjadi pertimbangan struktural untuk daya saing jangka panjang yang patut terus mendapat perhatian, meskipun produk alas kaki Indonesia terus berkinerja baik di pasar internasional.
+
+Basis produksi industri alas kaki sangat terkonsentrasi di Pulau Jawa (Gambar @fig-mapfootwear). Jawa Barat menampung jumlah pabrik alas kaki terintegrasi global terbanyak, dengan 42 fasilitas yang mempekerjakan lebih dari 186.000 pekerja di Sukabumi, Garut, Cibogo, dan Karawang. Banten dan Jawa Tengah masing-masing memiliki 29 dan 13 pabrik, dengan setiap provinsi mempekerjakan lebih dari 112.000 pekerja. Konsentrasi produksi di provinsi-provinsi ini didukung oleh infrastruktur industri, akses ke pemasok, dan jaringan ekspor yang sudah mapan.
+
+![Distribusi geografis pabrik alas kaki di Jawa. Sumber: APRISINDO (2025); analisis DEN.](fig/map_footwear.png){#fig-mapfootwear width=100%}
+
+Tren investasi terkini menunjukkan bahwa Jawa Tengah muncul sebagai tujuan ekspansi manufaktur alas kaki yang semakin penting. Sementara Jawa Barat dan Banten tetap menjadi pusat produksi terbesar di industri ini, biaya tenaga kerja yang relatif lebih rendah dan ketersediaan pekerja telah mendorong perusahaan untuk mendirikan fasilitas baru dan memperluas operasi yang ada di Jawa Tengah. Serapan tenaga kerja di industri alas kaki Jawa Tengah diperkirakan akan meningkat sekitar 85.000 pekerja[^1] dalam satu hingga dua tahun ke depan, menggarisbawahi semakin pentingnya kawasan ini dalam lanskap manufaktur alas kaki Indonesia.
+
+[^1]: Berdasarkan wawancara DEN dan perkiraan penulis menggunakan rencana ekspansi dari dua produsen alas kaki global utama dan jaringan pemasoknya di Jawa Tengah (2025).
+
+Hal ini menyoroti sejauh mana perkembangan di Jawa terus membentuk kinerja industri alas kaki Indonesia. Mengingat konsentrasi pabrikan di pulau ini, upaya untuk memperkuat daya saing (seperti melalui perbaikan infrastruktur, pengembangan sumber daya manusia, dan insentif investasi) akan sangat bergantung pada koordinasi yang efektif antara pemerintah pusat dan pemerintah daerah di pusat-pusat produksi utama ini.
+
+# Isu Strategis di Industri Tekstil & Pakaian Jadi dan Alas Kaki
+
+Tantangan strategis yang dihadapi industri tekstil dan alas kaki Indonesia dibentuk oleh dualisme ekonomi dan struktur industri yang heterogen di sektor ini. Ada dua implikasi yang sangat penting. Pertama, keberadaan rantai nilai yang relatif lengkap tidak selalu berarti adanya integrasi yang kuat di seluruh segmen. Kedua, berbagai segmen industri tersebut sering kali menghadapi kendala dan kebutuhan kebijakan yang secara fundamental berbeda.
+
+Gambar @fig-trade mengilustrasikan implikasi pertama. Meskipun Indonesia telah mengembangkan industri tekstil hulu yang substansial, pada saat yang sama negara ini terus mengimpor dan mengekspor volume bahan baku tekstil dan barang setengah jadi dalam jumlah signifikan. Industri rayon memberikan contoh yang berguna. Indonesia adalah produsen produk berbasis viscose (rayon) yang kompetitif, namun perusahaan-perusahaan di segmen ini tetap terintegrasi secara mendalam ke pasar internasional. Asia Pacific Rayon (APR), misalnya, mengekspor 61% dari produksi Serat Stapel Viskosa (VSF) dan 71% dari produksi Benang Viskosanya, sementara Indonesia terus mengimpor rayon dan produk benang dari luar negeri [@aprayon2024].
+
+![Ekspor dan impor barang-barang terkait tekstil dan alas kaki[^2]. Setiap panel menunjukkan nilai perdagangan Indonesia dalam miliar USD per tahun, dibagi berdasarkan tahap produk (bahan baku, barang setengah jadi, barang jadi) dan arus (impor, ekspor). Sumber: UN COMTRADE.](fig/trade_by_type.png){#fig-trade width=75%}
+
+[^2]: Bahan baku didefinisikan sebagai bab Kode HS 50--55; barang setengah jadi mencakup bab 56, 58, 59, dan 60; dan barang jadi mencakup bab 61--64.
+
+Salah satu penjelasan untuk pola ini adalah bahwa segmen industri yang berbeda sering kali berpartisipasi dalam rantai nilai yang berbeda pula. Produsen bahan baku domestik mungkin sudah terintegrasi ke dalam jaringan produksi internasional dan memasok ke pembeli di luar negeri, sementara produsen benang dan kain domestik mungkin mengadakan input dari pemasok yang ditunjuk oleh klien atau prinsipal merek mereka di luar negeri. Hubungan ini sering kali sangat terspesialisasi dan tidak mudah digantikan. Akibatnya, statistik perdagangan saja tidak dapat sepenuhnya menangkap tingkat integrasi dalam industri ini, dan kebijakan yang semata-mata didasarkan pada klasifikasi kode HS berisiko mengganggu rantai nilai yang sudah terbentuk.[^3]
+
+[^3]: Ini juga menjadi isu di industri lain yang bergantung pada rantai nilai global, seperti industri makanan dan minuman, permesinan, dan elektronik [@gupta2022neraca; @hasran2025].
+
+Implikasi kedua dari dualisme ekonomi ini adalah bahwa segmen industri yang berbeda sering memerlukan respons kebijakan yang berbeda. Perusahaan yang terintegrasi ke dalam rantai nilai global biasanya beroperasi di bawah serangkaian peluang dan kendala yang berbeda dibandingkan dengan produsen yang berorientasi domestik. Perusahaan utama (lead firms) dan merek global memainkan peran koordinasi yang penting dengan menyediakan akses pasar, menetapkan standar produksi, memfasilitasi transfer pengetahuan, dan mengurangi risiko komersial yang dihadapi oleh pemasok [@gereffi2005governance; @fernandezstark2011]. Banyak produsen yang berorientasi ekspor juga mendapat manfaat dari akses yang lebih kuat ke pasar, pembiayaan, dan jaringan produksi internasional.
+
+Sebaliknya, perusahaan tekstil dan alas kaki berorientasi domestik yang beroperasi dengan merek mereka sendiri cenderung menghadapi tantangan yang lebih besar terkait pembiayaan, peningkatan teknologi, perbaikan produktivitas, dan ekspansi pasar. Akses yang terbatas terhadap modal dapat menghambat investasi pada mesin dan proses produksi baru, sementara skala yang lebih kecil sering kali mempersulit mereka dalam memenuhi persyaratan yang dibutuhkan untuk berpartisipasi dalam rantai nilai global. Persaingan dari barang impor, khususnya impor ilegal, juga tetap menjadi kekhawatiran yang signifikan bagi perusahaan-perusahaan ini.
+
+Perbedaan juga terlihat di sepanjang rantai produksi itu sendiri. Kegiatan hulu seperti produksi serat sangat padat modal dan energi, yang memerlukan investasi substansial dan permintaan hilir yang memadai untuk tetap layak secara komersial. Akibatnya, jumlah perusahaan yang beroperasi di segmen-segmen ini cenderung relatif terbatas. Manufaktur hilir, terutama operasi CMT (cut-make-trim), umumnya lebih terfragmentasi dan tidak terlalu padat modal, sehingga memungkinkan perusahaan memperluas kapasitas secara bertahap seiring tumbuhnya permintaan. Alhasil, meskipun daya saing hulu sering dibentuk oleh akses ke modal, energi, dan bahan baku, daya saing hilir lebih bergantung pada ketersediaan tenaga kerja, keterampilan tenaga kerja, dan produktivitas.
+
+Perbedaan-perbedaan ini menyoroti pentingnya menghindari pendekatan satu ukuran untuk semua (one-size-fits-all) dalam menangani isu-isu strategis di industri tekstil dan alas kaki.
+
+## Perdagangan Internasional
+
+Mengingat karakter ekonomi ganda dan struktur industri yang sangat terkait dengan rantai nilai global, perdagangan internasional membawa implikasi yang signifikan bagi industri ini. Seperti dibahas sebelumnya, AS dan UE tetap menjadi pasar ekspor terpenting bagi industri ini. Oleh karena itu, perkembangan kebijakan perdagangan dan akses pasar di perekonomian negara-negara ini memiliki implikasi yang signifikan terhadap investasi dan produksi industri di Indonesia.
+
+Untuk pasar AS, tantangan utamanya berpusat pada ketidakpastian kebijakan mengenai tarif dan daya saing biaya. Industri Indonesia rentan terhadap ancaman tarif balasan dan potensi hilangnya manfaat Generalized System of Preferences (GSP), yang secara langsung akan menaikkan bea masuk dan menekan margin laba. Pada saat yang sama, Indonesia menghadapi persaingan yang ketat dari negara-negara seperti Vietnam, yang sangat kompetitif dalam hal biaya produksi domestik. Tekanan gabungan dari beban tarif dan inefisiensi biaya membawa potensi yang signifikan untuk menantang ekspor dan investasi, yang menggarisbawahi perlunya transformasi struktural untuk meningkatkan daya saing global.
+
+Untuk pasar UE, prospeknya lebih menguntungkan. Penyelesaian substansi Perjanjian Kemitraan Ekonomi Komprehensif Indonesia–Uni Eropa (IEU-CEPA) diharapkan dapat memberikan akses bebas bea masuk bagi ekspor tekstil dan alas kaki Indonesia. Hal ini sangat penting karena akan menempatkan eksportir Indonesia pada medan persaingan yang lebih seimbang dengan pesaing seperti Vietnam, yang sudah menikmati akses tarif preferensial ke pasar UE.
+
+Namun, akses ke preferensi ini bergantung pada kepatuhan terhadap Ketentuan Asal Barang (Rules of Origin/RoO), khususnya persyaratan "transformasi ganda" (double transformation). Berdasarkan aturan ini, produk harus melalui setidaknya dua tahap produksi di dalam wilayah Indonesia untuk memenuhi syarat tarif preferensial. Untuk pakaian jadi, misalnya, kain itu sendiri juga harus diproduksi di dalam negeri dan bukan diimpor. Tujuannya adalah untuk mencegah transshipment dan memastikan bahwa preferensi tarif terkait dengan pertambahan nilai domestik yang nyata.
+
+Bagi perusahaan yang beroperasi dengan pengaturan CMT (cut-make-trim), persyaratan ini menghadirkan tantangan yang signifikan. Banyak produsen masih bergantung pada kain impor dan input setengah jadi yang dipasok melalui jaringan pembeli global. Kepatuhan terhadap aturan transformasi ganda karenanya akan membutuhkan produksi barang setengah jadi domestik yang lebih kuat atau tambahan investasi hulu oleh pemasok yang ada.
+
+Meskipun persyaratan transformasi ganda menciptakan insentif untuk memperkuat industri hulu dan antara di dalam negeri, impor kemungkinan akan tetap menjadi bagian penting dari struktur produksi industri. Hal ini terutama berlaku untuk input khusus, material eksklusif, dan produk yang tidak tersedia di dalam negeri dalam kualitas, spesifikasi, atau volume yang dibutuhkan. Akibatnya, impor memainkan peran ganda dalam industri tersebut. Di satu sisi, mereka dapat bersaing langsung dengan produsen dalam negeri di segmen yang sama. Di sisi lain, mereka menyediakan akses ke input yang mendukung produksi, ekspor, dan partisipasi dalam rantai nilai global. Studi-studi yang dilakukan oleh DEN, Gherzi, dan Prospera juga menekankan bahwa impor dapat mendukung sekaligus menantang pengembangan industri.
+
+Kekhawatiran yang lebih mendesak bukanlah pada impor legal itu sendiri, melainkan impor ilegal yang menghindari bea masuk dan persyaratan regulasi secara keseluruhan. Pada Agustus 2025, operasi gabungan oleh Kementerian Perdagangan, Badan Intelijen Negara (BIN), dan Badan Intelijen Strategis Tentara Nasional Indonesia (BAIS TNI) menyita 19.391 bal impor tekstil ilegal senilai Rp 112,35 miliar [@deviyana2025]. Berbagai studi industri menunjukkan bahwa praktik semacam itu umumnya melibatkan kurang lapor (underreporting), manipulasi nilai (underinvoicing), dan penggunaan titik masuk tidak resmi. Selain mengurangi pendapatan pemerintah, impor ilegal merusak persaingan yang sehat dan melemahkan daya saing perusahaan domestik.
+
+## Isu Keberlanjutan
+
+Selain masalah terkait perdagangan, keberlanjutan (sustainability) menjadi isu yang semakin penting bagi industri tekstil dan alas kaki. Hal ini sangat relevan bagi perusahaan-perusahaan yang mengekspor ke pasar UE, di mana persyaratan keberlanjutan secara bertahap menjadi bagian dari prasyarat akses pasar.
+
+Di bawah Kesepakatan Hijau Eropa (European Green Deal), Uni Eropa telah memperkenalkan sejumlah peraturan untuk mendorong pola produksi dan konsumsi yang lebih berkelanjutan. Salah satu yang paling penting bagi industri tekstil dan alas kaki adalah Peraturan Ekodesain untuk Produk Berkelanjutan (Ecodesign for Sustainable Products Regulation/ESPR), yang mulai berlaku pada tahun 2024 dan saat ini sedang menjalani konsultasi serta implementasi lebih lanjut [@yan2025; @ec2024espr].
+
+ESPR mencakup persyaratan yang berkaitan dengan ketahanan produk, kemampuan perbaikan, kemampuan daur ulang, dan ketertelusuran (traceability). Salah satu elemen kuncinya adalah Paspor Produk Digital (Digital Product Passport/DPP), yang mewajibkan informasi mengenai asal produk, komposisi bahan, proses produksi, dan jejak lingkungannya untuk dapat dilacak di sepanjang rantai nilai [@costa2025dpp]. Memenuhi persyaratan ini akan mengharuskan perusahaan untuk memperkuat pengumpulan data, sistem ketertelusuran, dan digitalisasi di seluruh operasi mereka.
+
+Implikasinya meluas tidak hanya pada perusahaan yang mengekspor langsung ke Uni Eropa. Karena persyaratan ketertelusuran berlaku di sepanjang rantai nilai, pemasok hulu juga kemungkinan akan terpengaruh. Hal ini sangat relevan di industri tekstil, di mana produksi serat dan kain sangat padat modal dan dicirikan oleh skala ekonomi yang signifikan. Alih-alih menjalankan sistem produksi yang terpisah untuk pasar yang berbeda, banyak produsen mungkin merasa lebih praktis untuk mengadopsi standar-standar ini di seluruh operasi mereka.
+
+Beberapa produsen yang berorientasi ekspor telah mulai beradaptasi dengan perubahan-perubahan ini. Salah satu pabrik serat dan kain di Jawa Tengah[^4] telah mengembangkan sistem dasbor waktu-nyata (real-time) yang siap diintegrasikan dengan sistem seperti DPP. Perusahaan ini juga telah mengalihkan seluruh produksi energinya ke biomassa.
+
+[^4]: Untuk menjaga kerahasiaan informasi yang sensitif secara komersial, nama perusahaan tidak diungkapkan. Informasi tersebut didasarkan pada wawancara mendalam yang dilakukan oleh DEN dengan produsen serat dan kain yang berorientasi ekspor di Jawa Tengah pada tahun 2025.
+
+Namun, transisi menuju produksi yang lebih hijau tetap menjadi tantangan di Indonesia. Meskipun biaya energi industri relatif kompetitif, sistem energi di negara ini terus sangat bergantung pada bahan bakar fosil. Produsen yang ingin mengurangi jejak karbon mereka mungkin akan berinvestasi pada sumber energi alternatif seperti biomassa, tenaga surya, atau gas alam, namun masing-masing menghadapi kendalanya sendiri, termasuk terbatasnya ketersediaan biomassa, pembatasan regulasi pada penerapan tenaga surya, serta kesenjangan dalam pasokan dan infrastruktur gas.
+
+Bagi banyak perusahaan, keberlanjutan tidak lagi sekadar isu lingkungan. Semakin ke sini, keberlanjutan menjadi prasyarat bisnis yang terhubung dengan daya saing ekspor dan partisipasi dalam rantai nilai global.
+
+## Teknologi
+
+Adopsi teknologi tetap menjadi faktor penentu daya saing di industri tekstil & pakaian jadi dan alas kaki Indonesia. Selain mengurangi biaya produksi, peningkatan teknologi semakin diperlukan untuk meningkatkan produktivitas, kualitas produk, dan efisiensi operasional di pasar global yang semakin kompetitif.
+
+Gambar @fig-machinery mengilustrasikan bahwa Indonesia pada umumnya tertinggal di belakang negara pesaing regional seperti Vietnam dalam hal modernisasi mesin, khususnya pada proses pemintalan dan penenunan. Selama dekade terakhir, Indonesia mengalami penurunan kapasitas di beberapa segmen hulu, termasuk pemintalan cincin (ring spinning), pemintalan ujung-terbuka (open-end spinning), dan alat tenun tanpa teropong (shuttleless looms), sementara Vietnam terus memperluas kapasitas melalui investasi berkelanjutan pada peralatan produksi yang lebih baru. Tren ini menunjukkan bahwa tantangan yang dihadapi Indonesia bukan hanya persoalan daya saing, tetapi juga mengenai upaya mempertahankan kapasitas produktif pada segmen hulu yang strategis dari rantai nilai tekstil.
+
+![Perbandingan modernisasi mesin tekstil di Indonesia dan Vietnam. Sumber: DEN, ITMF, Gherzi.](fig/machinery_modernization.png){#fig-machinery width=90%}
+
+Mesin yang lebih tua cenderung kurang produktif, lebih boros energi, dan lebih mahal untuk dirawat, sehingga mengurangi daya saing relatif terhadap produsen yang telah berinvestasi pada teknologi yang lebih baru. Akibatnya, modernisasi mesin tetap menjadi salah satu prioritas yang paling mendesak bagi industri, khususnya untuk segmen hulu yang membentuk fondasi rantai nilai tekstil domestik.
+
+Otomatisasi juga menjadi semakin penting, tidak selalu sebagai pengganti tenaga kerja, tetapi sebagai sarana untuk meningkatkan produktivitas, konsistensi kualitas, dan efisiensi operasional. Sejumlah produsen besar telah mengadopsi peralatan pemotongan otomatis, sistem penanganan material, dan teknologi manajemen gudang untuk mengurangi hambatan (bottleneck) produksi dan meningkatkan pengendalian proses. Wawancara yang dilakukan oleh DEN dengan produsen yang berorientasi ekspor menunjukkan bahwa otomatisasi telah membantu mengurangi tingkat cacat, memperbaiki konsistensi produk, dan meningkatkan efisiensi produksi, yang semuanya krusial untuk memenuhi persyaratan kualitas dari pembeli global[^5]. Walaupun tingkat adopsi secara luas masih tidak merata, terutama di kalangan perusahaan berskala kecil, otomatisasi kemungkinan akan menjadi komponen peningkatan industri yang semakin penting di tahun-tahun mendatang.
+
+[^5]: Berdasarkan wawancara yang dilakukan oleh DEN dengan produsen tekstil berorientasi ekspor pada tahun 2025. Nama perusahaan tidak diungkapkan untuk menjaga kerahasiaan informasi yang sensitif secara komersial.
+
+## Kesiapan Tenaga Kerja
+
+Industri tekstil, garmen, dan alas kaki tetap menjadi salah satu pemberi kerja manufaktur terpenting di Indonesia. Total lapangan kerja meningkat dari 4,1 juta pekerja pada tahun 2020 menjadi lebih dari 5,0 juta pekerja pada tahun 2025, yang setara dengan sekitar seperempat pekerja manufaktur formal secara nasional [@bps2025sakernas]. Manufaktur tekstil dan pakaian jadi terus mendominasi penyerapan tenaga kerja di dalam sektor ini, menyumbang hampir empat juta pekerja pada tahun 2025. Namun demikian, pertumbuhan penyerapan tenaga kerja tercepat terjadi di industri alas kaki, di mana tenaga kerjanya meningkat sekitar 60 persen antara tahun 2020 dan 2025, dibandingkan dengan sekitar 15--20 persen pertumbuhan di manufaktur tekstil dan garmen pada periode yang sama (Gambar @fig-workers).
+
+![Jumlah tenaga kerja di industri padat karya Indonesia (juta), 2020--2025. Sumber: BPS, Sakernas.](fig/workers.png){#fig-workers width=70% fig-pos="H"}
+
+Pertumbuhan jumlah tenaga kerja ini secara wajar menimbulkan kekhawatiran tentang apakah pasokan tenaga kerja dapat mengimbangi permintaan industri. Namun, ketersediaan proyeksi tenaga kerja menunjukkan bahwa Indonesia kemungkinan tidak akan menghadapi kekurangan pekerja di kedua industri tersebut. Menurut proyeksi dari Kementerian Ketenagakerjaan, pasokan tahunan lulusan vokasi (lulusan SMK dan Vokasi) yang relevan dengan industri tekstil dan alas kaki diproyeksikan akan terus bertumbuh hingga tahun 2029. Untuk tekstil dan garmen, pasokan lulusan diproyeksikan meningkat dari sekitar 624.802 pada tahun 2025 menjadi 765.763 pada tahun 2029, atau setara dengan pertumbuhan rata-rata tahunan sebesar 5,2 persen. Lulusan yang terkait alas kaki diproyeksikan akan meningkat dari sekitar 133.232 menjadi sekitar 183 ribu dalam periode yang sama, yang merepresentasikan pertumbuhan tahunan sebesar 8,3 persen (Gambar @fig-workforce).
+
+![Proyeksi pasokan tenaga kerja untuk industri tekstil & pakaian jadi, dan alas kaki Indonesia[^6]. Sumber: Kementerian Ketenagakerjaan.](fig/workforce_projection.png){#fig-workforce width=95%}
+
+[^6]: Proyeksi Pasokan Tenaga Kerja Lulusan Pendidikan dan Pelatihan Vokasi (SMK dan Diploma).
+
+Angka proyeksi lulusan ini secara substansial melampaui estimasi permintaan tenaga kerja yang terkait dengan aktivitas investasi baru-baru ini. Data yang dikumpulkan untuk studi ini menunjukkan bahwa 27 pabrik tekstil dan alas kaki yang baru didirikan diperkirakan akan menghasilkan lapangan kerja pada tahun 2025--2026 untuk sekitar 108.000 pekerja. Dibandingkan dengan jalur pasokan tahunan lulusan vokasi yang melebihi 750.000 individu pada tahun 2025, hal ini mengindikasikan bahwa ketersediaan tenaga kerja tidak mungkin menjadi hambatan yang mengikat bagi kedua industri tersebut dalam waktu dekat.
+
+Sebaliknya, masalah yang tampaknya lebih penting adalah produktivitas dan kesiapan kerja tenaga kerja. Diskusi dengan para pemangku kepentingan industri mengindikasikan bahwa terdapat perbedaan produktivitas yang substansial di berbagai lokasi produksi. Produsen alas kaki yang beroperasi di klaster-klaster industri yang sudah mapan di Tangerang, misalnya, melaporkan output per pekerja yang jauh lebih tinggi dibandingkan dengan fasilitas-fasilitas baru di Jawa Tengah. Data produktivitas yang dibagikan selama sesi konsultasi menunjukkan kisaran sekitar 1,6 hingga hampir 5,0 pasang sepatu yang diproduksi per pekerja per hari. Para pelaku industri mengaitkan sebagian besar variasi ini dengan perbedaan pengalaman tenaga kerja, kurva pembelajaran pabrik, kapabilitas penyelia (supervisor), dan kematangan operasional.
+
+Seiring bertambahnya pengalaman dan penyempurnaan proses produksi di fasilitas-fasilitas baru, sebagian dari kesenjangan produktivitas yang teramati semestinya akan menyempit seiring berjalannya waktu. Meskipun demikian, temuan-temuan ini menggarisbawahi pentingnya kesiapan tenaga kerja dan pengembangan keterampilan untuk memungkinkan sentra-sentra produksi baru agar mampu menerjemahkan ketersediaan tenaga kerja menjadi keuntungan produktivitas di saat investasi terus berekspansi.
+
+Sebagaimana dibahas sebelumnya, posisi Indonesia di dalam rantai nilai tekstil & garmen dan alas kaki terpusat pada kegiatan manufaktur dan perakitan. Oleh karena itu, daya saing sangat bergantung pada efisiensi dan konsistensi produksi ketimbang pada kapabilitas hulu yang padat modal atau nilai hilir yang didorong oleh merek. Sementara itu, di dalam segmen rantai nilai ini, produktivitas tenaga kerja dapat dipengaruhi langsung melalui kebijakan domestik, misalnya melalui reformasi kurikulum SMK.
+
+Mengingat bahwa SMK merupakan jalur utama pasokan lulusan vokasi yang memasuki industri tekstil dan garmen serta alas kaki, kesenjangan produktivitas yang teramati menimbulkan pertanyaan kebijakan yang penting: apakah kurikulum vokasi saat ini cukup selaras dengan persyaratan industri dan lingkungan produksi yang akan dimasuki oleh para lulusan tersebut. Hal ini perlu ditelaah lebih saksama, termasuk sejauh mana jalur vokasi yang terkait tekstil dan garmen diorientasikan pada proses produksi yang berbasis lini/industri dan bukan model produksi individu atau kelompok (batch) kecil. Khususnya, hingga tahun 2026, alas kaki belum menjadi program kejuruan (jurusan) yang berdiri sendiri di dalam sistem SMK. Ia malah diajarkan sebagai sebuah modul di dalam kurikulum yang lebih luas tentang Kerajinan Kulit dan Kulit Imitasi, meskipun proses produksi alas kaki memiliki kekhasan tersendiri dan berstatus sebagai industri berorientasi ekspor yang signifikan.
+
+Mengatasi keselarasan ini, seperti melalui kolaborasi yang lebih erat antara lembaga pendidikan vokasi dan industri dalam pengembangan kurikulum, kemungkinan besar akan diperlukan untuk memastikan bahwa pertumbuhan kuantitatif pasokan tenaga kerja yang kuat dapat diterjemahkan menjadi tenaga kerja yang mampu memenuhi standar produktivitas yang diperlukan untuk mempertahankan daya saing Indonesia di dalam rantai nilai tekstil dan pakaian jadi, serta alas kaki global.
+
+# Kebijakan Pemerintah dan Program Dukungan
+
+Pemerintah Indonesia telah memperkenalkan serangkaian kebijakan yang memengaruhi industri tekstil dan alas kaki, yang mencakup perdagangan, investasi, modernisasi mesin, dan pengembangan tenaga kerja.
+
+Di bidang perdagangan, Permendag No. 17/2025 memperkenalkan persyaratan impor untuk berbagai produk tekstil, termasuk Persetujuan Impor dan Laporan Surveyor. Peraturan ini bertujuan untuk memperkuat pengawasan atas impor tekstil sekaligus menyeimbangkan kebutuhan industri domestik dan pengguna hilir. Ini diikuti oleh Permenperin No. 27/2025, yang mengatur penerbitan pertimbangan teknis (pertek) untuk impor tekstil, khususnya untuk memastikan ketersediaan bahan baku untuk aktivitas manufaktur dalam negeri.
+
+Indonesia juga terus memanfaatkan instrumen pengamanan perdagangan (trade remedy) di sektor tekstil, termasuk Bea Masuk Anti Dumping (BMAD) dan Tindakan Pengamanan (BMTP atau safeguard) pada beberapa produk terpilih. Tindakan jangka panjang meliputi bea masuk anti dumping atas impor Serat Stapel Poliester dari India, Tiongkok, dan Taiwan, serta benang spin drawn dari Tiongkok. Baru-baru ini, tambahan anti-dumping dan safeguard telah diterapkan pada produk-produk seperti kain tenun katun dan benang katun melalui PMK 48/2024, PMK 67/2025, dan PMK 98/2025. Langkah-langkah ini dimaksudkan untuk mengatasi praktik perdagangan tidak sehat dan lonjakan impor yang dapat berdampak buruk pada produsen domestik. Namun, dampaknya bervariasi di berbagai segmen industri. Walaupun kebijakan tersebut dapat memberi perlindungan tambahan untuk produsen domestik yang bersaing secara langsung dengan barang impor, kebijakan tersebut juga dapat meningkatkan biaya input bagi perusahaan yang bergantung pada bahan baku dan barang setengah jadi impor.
+
+Pemerintah juga telah memperkenalkan serangkaian insentif untuk mempromosikan investasi di sepanjang rantai nilai tekstil dan alas kaki. Ini termasuk fasilitas bea masuk atas mesin dan peralatan berdasarkan PMK 179/2009, insentif pajak untuk investasi baru di industri padat karya menurut PMK 16/2020, dan fasilitas tax holiday berdasarkan PMK 130/2020 untuk industri pionir yang memenuhi syarat. Beberapa insentif ini juga relevan untuk industri hulu, termasuk manufaktur bahan kimia dasar, yang memainkan peran penting dalam produksi serat sintetis dan input tekstil lainnya.
+
+Pada pengembangan tenaga kerja, pemerintah telah memperkenalkan insentif untuk mendukung program pemagangan, pelatihan tenaga kerja, dan aktivitas riset melalui skema pengurangan pajak super (super deduction tax) berdasarkan PMK 128/2019 dan PMK 153/2020. Dukungan tambahan juga telah diberikan kepada industri padat karya, termasuk sektor tekstil dan alas kaki, melalui fasilitas pajak penghasilan ditanggung pemerintah (DTP) di bawah PMK 10/2025 dan PMK 105/2025.
+
+Untuk mendukung modernisasi mesin, pemerintah saat ini menjalankan dua program yang saling melengkapi. Pertama adalah Program Restrukturisasi Mesin dan Peralatan (Permenperin 20/2024), yang memberikan penggantian (reimbursement) parsial atas pembelian mesin dan peralatan produksi baru. Berdasarkan program tahun 2026, perusahaan dapat menerima penggantian hingga 25 persen dari nilai pembelian mesin buatan dalam negeri dan 10 persen untuk mesin impor, dengan batas maksimum penggantian sebesar Rp 500 juta per perusahaan. Kedua adalah Program Insentif Reinvestasi Padat Karya (KIPK), yang memberikan subsidi bunga sebesar 5 persen atas pinjaman investasi mulai dari Rp 500 juta hingga Rp 10 miliar. Pemangku kepentingan industri pada umumnya memandang program-program ini sebagai langkah positif menuju modernisasi industri, namun telah mengidentifikasi beberapa tantangan pelaksanaannya, termasuk batas penggantian (ceiling) yang relatif terbatas, pengecualian bagi peralatan pendukung, dan persyaratan kelayakan yang mungkin membatasi partisipasi.
+
+## Reformasi Regulasi sebagai Pendorong Daya Saing Industri
+
+Pencapaian ambisi ekspor tersebut akan bergantung tidak hanya pada pembiayaan dan insentif, tetapi juga seberapa cepat komitmen investasi dapat diwujudkan menjadi pabrik yang beroperasi dan pekerja yang direkrut. Ada dua area regulasi yang sangat relevan dalam hal ini: perizinan berusaha dan persetujuan teknis (pertek) impor untuk bahan baku industri. Berbagai langkah telah diambil di kedua bidang tersebut, meskipun sejauh mana kebijakan tersebut memberikan hasil yang diharapkan akan bergantung pada implementasi yang konsisten dan terukur lintas instansi serta daerah.
+
+Pertama, mengenai perizinan berusaha, pelibatan DEN bersama para pemain sektor tekstil dan garmen di Jawa Barat, Jawa Tengah, Banten, dan Jawa Timur telah mengidentifikasi 27 perusahaan dengan total 108.179 pekerja di mana jadwal realisasi investasi mereka sensitif terhadap durasi perizinan (Gambar @fig-pipeline).
+
+![Rencana kerja investasi tekstil, pakaian jadi & alas kaki (2025--2026). Sumber: DEN.](fig/investment_pipeline.png){#fig-pipeline width=100%}
+
+Tinjauan yang lebih mendalam pada salah satu fasilitas alas kaki di Jawa Tengah yang mempekerjakan 12.000 pekerja mengilustrasikan sejauh mana penundaan perizinan dapat menghambat realisasi investasi. Proses AMDAL (izin lingkungan) saja memakan waktu sekitar 1.095 hari, yang menyumbang mayoritas waktu perizinan proyek tersebut (Gambar @fig-licensing).
+
+![Potensi pengurangan waktu penyelesaian perizinan investasi melalui implementasi penuh PP No. 28/2025. Sumber: DEN.](fig/licensing_time.png){#fig-licensing width=100%}
+
+Meskipun kasus ini merupakan ilustrasi dan bukan representatif, tantangan-tantangan serupa telah dilaporkan di seluruh sektor. Peraturan Pemerintah No. 28 Tahun 2025 berupaya mengatasi hambatan ini dengan memperkenalkan Perjanjian Tingkat Layanan (Service Level Agreements/SLAs) dengan jadwal pemrosesan yang ditentukan untuk setiap tahap persetujuan. Implementasi penuh dapat mengurangi total waktu perizinan dari 2--3 tahun menjadi sekitar 1,2 tahun, termasuk pengurangan waktu pemrosesan AMDAL dari 1.095 hari menjadi 126 hari. Efektivitas reformasi ini pada akhirnya akan bergantung pada penegakan yang konsisten dan koordinasi yang kuat di semua tingkat pemerintahan.
+
+Kedua, di luar perizinan berusaha, efisiensi dari proses persetujuan impor tetap menjadi faktor penting yang memengaruhi realisasi investasi dan daya saing industri. Dalam konteks ini, Satgas P3-MPPE, yang dibentuk berdasarkan Keputusan Presiden No. 4 Tahun 2026 dan dikoordinasikan oleh Kementerian Koordinator Bidang Perekonomian, telah mengidentifikasi penyederhanaan persetujuan teknis impor untuk bahan baku industri sebagai prioritas reformasi awal. Inisiatif tersebut mencakup penyesuaian persyaratan persetujuan teknis di bawah Kementerian Perindustrian, serta revisi kebijakan perdagangan terkait di bawah Kementerian Perdagangan.
+
+Bagi sektor tekstil dan alas kaki, reformasi ini sangatlah relevan. Para produsen mengandalkan akses tepat waktu terhadap serat khusus, benang, bahan kimia, serta input perantara lainnya yang sering kali ditentukan oleh pembeli global dan prinsipal merek. Penundaan dalam mendapatkan persetujuan teknis impor atau dalam memproses bahan impor dapat mengganggu jadwal produksi, meningkatkan biaya operasional, dan mengurangi keandalan rantai pasokan.
+
+Isu ini menjadi semakin penting seiring upaya Indonesia memperluas kapasitas tekstil hulunya melalui investasi benang dan kain baru. Fasilitas-fasilitas ini kelak akan memainkan peran krusial dalam memungkinkan kepatuhan terhadap persyaratan transformasi ganda IEU-CEPA, sehingga menjadikan administrasi impor yang efisien sebagai pelengkap penting untuk upaya pengembangan industri yang lebih luas.
+
+Secara keseluruhan, reformasi di perizinan berusaha dan proses persetujuan impor mengatasi dua area regulasi yang secara langsung memengaruhi laju realisasi investasi di sektor tekstil dan alas kaki. Jika diterapkan secara efektif, langkah-langkah ini dapat mempercepat pelaksanaan proyek, memperkuat kepercayaan investor, dan mendukung penciptaan lapangan kerja secara lebih cepat. Indonesia telah memperkenalkan banyak instrumen kebijakan yang diperlukan; tantangan utamanya kini terletak pada memastikan implementasi yang konsisten lintas institusi dan tingkat pemerintahan.
+
+# Kesimpulan
+
+Industri tekstil dan alas kaki Indonesia tetap penting secara strategis tidak hanya karena kontribusinya pada ekspor, tetapi juga karena peran mereka sebagai salah satu sumber terbesar untuk lapangan kerja manufaktur formal di negara ini. Industri-industri tersebut berada pada posisi yang menguntungkan untuk mendapat manfaat dari beberapa perkembangan positif, termasuk diversifikasi pengadaan global keluar dari Tiongkok, meningkatnya minat investor di Asia Tenggara, serta penyelesaian substansi Perjanjian Kemitraan Ekonomi Komprehensif Indonesia–Uni Eropa (IEU-CEPA). Bersama-sama, perkembangan ini menciptakan jendela peluang bagi Indonesia untuk memperkuat posisinya di dalam rantai nilai tekstil dan alas kaki global.
+
+Temuan dari studi ini menunjukkan bahwa tantangan daya saing Indonesia pada dasarnya bukan masalah biaya produksi. Dibandingkan dengan negara-negara pesaing utama, Indonesia secara umum tetap kompetitif dalam hal biaya tenaga kerja, energi, dan air. Sebaliknya, kendala yang lebih signifikan berkaitan dengan realisasi investasi, peningkatan teknologi, produktivitas tenaga kerja, dan kemampuan untuk memenuhi persyaratan pasar yang semakin menuntut, khususnya yang terkait dengan keberlanjutan dan ketertelusuran.
+
+Studi ini juga menyoroti pentingnya menyadari keragaman struktural industri. Sektor tekstil dan alas kaki Indonesia terdiri dari produsen yang terintegrasi secara global yang terhubung dengan pembeli internasional dan produsen yang berorientasi domestik yang melayani pasar lokal. Perbedaan juga ada di sepanjang rantai nilai itu sendiri, di mana segmen hulu menghadapi tantangan terkait intensitas modal, skala, dan ketersediaan bahan baku, sementara segmen hilir lebih bergantung pada produktivitas tenaga kerja, efisiensi operasional, dan akses pasar. Akibatnya, intervensi kebijakan perlu disesuaikan dengan kendala khusus yang dihadapi oleh segmen yang berbeda alih-alih mengandalkan pendekatan yang seragam.
+
+Dalam waktu dekat, peningkatan kecepatan dan kepastian realisasi investasi harus menjadi prioritas kebijakan. Bukti yang dikumpulkan dalam studi ini mengindikasikan bahwa proses perizinan yang panjang dan hambatan administratif dapat secara signifikan menunda pembangunan pabrik dan penciptaan lapangan kerja. Oleh karena itu, reformasi yang sedang berlangsung pada prosedur perizinan berusaha dan persetujuan impor memiliki potensi untuk menghasilkan manfaat ekonomi yang substansial dengan mempercepat pelaksanaan investasi, memperkuat kepercayaan investor, dan mendukung penciptaan lapangan kerja.
+
+Dalam jangka panjang, kemampuan Indonesia untuk meraih nilai yang lebih besar dari industri tekstil dan alas kaki akan bergantung pada penguatan ekosistem industri domestik dan peningkatan produktivitas. Walaupun proyeksi tenaga kerja menunjukkan bahwa pasokan tenaga kerja tidak mungkin menjadi hambatan yang mengikat, kesenjangan produktivitas yang signifikan tetap ada di berbagai lokasi produksi, yang menyoroti pentingnya kesiapan tenaga kerja, pendidikan vokasi, dan pengembangan keterampilan yang relevan dengan industri. Pada saat yang sama, investasi yang berkelanjutan dalam modernisasi mesin, kepatuhan keberlanjutan, dan kapabilitas industri hulu akan diperlukan untuk meningkatkan nilai tambah domestik dan mendukung kepatuhan terhadap persyaratan pasar global yang terus berkembang.
+
+Pada akhirnya, peluang Indonesia tidak hanya sekadar untuk menarik lebih banyak investasi tekstil dan alas kaki, melainkan untuk memperdalam partisipasinya dalam rantai nilai global sambil meningkatkan nilai domestik yang diciptakan dari partisipasi tersebut. Pencapaian tujuan ini akan membutuhkan pendekatan yang terkoordinasi yang menggabungkan reformasi regulasi, peningkatan industri, pengembangan tenaga kerja, dan pembangunan ekosistem. Jika tantangan-tantangan ini dapat diatasi secara efektif, industri tekstil dan alas kaki dapat terus menjadi sumber utama pertumbuhan ekspor, pekerjaan formal, dan transformasi industri di tahun-tahun mendatang.
+
+# Pernyataan Keterulangan (Reproducibility Statement) {.unnumbered}
+
+Berkas sumber daya untuk makalah ini disimpan di <https://github.com/imedkrisna/tekstil>. Semua gambar yang digerakkan oleh data (Gambar @fig-growth, Gambar @fig-recovery, Gambar @fig-investment, Gambar @fig-globalimport, Gambar @fig-smile, Gambar @fig-trade, Gambar @fig-workers) dihasilkan oleh Jupyter notebook `fig/fig.ipynb` dari berkas Excel di dalam folder `fig/`; perhitungan lapangan kerja Sakernas di balik Gambar @fig-workers dimasukkan langsung ke dalam notebook. Pangsa pasar pada Tabel @tbl-shares dihitung dalam notebook yang sama dari data bilateral UN COMTRADE (`TradeData.xlsx`), yang tidak didistribusikan ulang di dalam repositori; notebook ini menyimpan hasil perhitungannya. Gambar lainnya (diagram rantai nilai, peta, dan bagan berdasarkan kerja lapangan DEN dan basis data pihak ketiga) disertakan sebagai gambar statis di dalam `fig/`; dua peta telah dipotong dari aslinya, yang disimpan di folder yang sama dengan akhiran `_original`.
