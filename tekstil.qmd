@@ -103,15 +103,15 @@ This paper examines these dynamics in greater detail. Section 2 reviews the char
 
 @fig-growth shows quarterly value added growth of textile and garment as well as leather and footwear Industries, compared with non oil and gas manufacturing as well as the general economic growth. Indonesia's textile and garment industry grew by 3.55% in 2025, compared with 4.26% in 2024. The leather, leather products and footwear industry recorded growth of 3.31 percent in 2025, following a notably stronger expansion of 6.83 percent in 2024. Despite the moderation observed in 2025, the footwear industry has generally outperformed the textile industry during the post-pandemic recovery period. More broadly, both industries have exhibited significant volatility over the past decade, reflecting shifts in global demand and the disruptions associated with the COVID-19 pandemic.
 
-![Growth trends in the textile, footwear and manufacturing sectors, 2010--2025. Source: BPS.](fig/gdp_growth_quarterly.png){#fig-growth width=85%}
+![Growth trends in the textile, footwear and manufacturing sectors, 2010--2025.](fig/gdp_growth_quarterly.png){#fig-growth width=85%}
 
 As @fig-recovery demonstrates, more than four years after the onset of the pandemic, the two industries experience quite a different story. The figure presents constant-price GDP for the textile & garment and the footwear industries. The solid, orange line represents actual GDP data, while the dashed line indicates the pre-COVID trend estimated using the HP filter method [@hodrick1997; @razzak1997]. Footwear industries seem to able to return to its longer-term growth path. Textile and garment, however, remains struggling to catch up to its pre-COVID trajectory.
 
-![Post-pandemic recovery projection of the textile and footwear industries relative to pre-COVID trends. Source: BPS](fig/gdp_covid_disruption_quarterly.png){#fig-recovery width=100%}
+![Post-pandemic recovery projection of the textile and footwear industries relative to pre-COVID trends.](fig/gdp_covid_disruption_quarterly.png){#fig-recovery width=100%}
 
 Direct investment in both industries has increased substantially since the COVID-19 pandemic, reaching their highest levels during 2021--2025 (@fig-investment). However, the two industries exhibit markedly different investment structures. The textile and garment industry draws from a relatively broader investment base, with domestic investors accounting for between 19 and 61 percent of total realized investment during 2010--2025. In contrast, the footwear industry remains heavily dependent on foreign direct investment (FDI), with foreign investors consistently contributing around 90 percent or more of total investment throughout most of the period.
 
-![Foreign and domestic direct investment in the textile and footwear industries, 2010--2025. Source: BPS, accessed through CEIC.](fig/investment_comparison.png){#fig-investment width=100%}
+![Foreign and domestic direct investment in the textile and footwear industries, 2010--2025.](fig/investment_comparison.png){#fig-investment width=100%}
 
 Investment growth has been particularly pronounced in the footwear industry. Between 2020 and 2025, total realized investment increased from approximately USD 241 million to more than USD 1.6 billion. Over the same period, investment in the textile and garment industry rose from around USD 424 million to USD 1.25 billion. As a result, by 2025 the footwear industry attracted higher levels of investment than the textile and garment industry despite being considerably smaller in terms of output. The predominance of foreign investment in the footwear industry is consistent with its strong participation in export-oriented production networks, while the textile and garment industry continues to benefit from a more diversified mix of domestic and foreign investment.
 
@@ -123,7 +123,7 @@ International trade plays a particularly important role in both the textile and 
 
 The United States and the European Union remain the two most important markets for global textile and footwear finished goods. Together, they accounted for approximately 64.2 percent of global imports of products under HS Chapters 61--64 in 2025, which mainly consist of apparel, made-up textile articles, and footwear (@fig-globalimport). The European Union is the world's largest importer of these products, accounting for 47.1 percent of total global imports, followed by the United States at 17.1 percent.
 
-![Global import market for garments and footwear by region, 2023--2025 (USA, EU, Asia and Rest of World (RoW)). The y-axis shows total import value in billion USD; labels show each region's share of global imports. Source: UN Comtrade.](fig/fig1.png){#fig-globalimport width=85%}
+![Global import market for garments and footwear by region, 2023--2025 (USA, EU, Asia and Rest of World (RoW)). The y-axis shows total import value in billion USD; labels show each region's share of global imports.](fig/fig1.png){#fig-globalimport width=85%}
 
 Beyond its role as a major export market, the European Union also plays an important role in shaping global production standards through regulatory initiatives such as the Ecodesign for Sustainable Products Regulation (ESPR) [@ec2024espr; @yan2025]. Consequently, sustainability and traceability requirements are becoming increasingly important for Indonesian textile and footwear exporters seeking access to the European market.
 
@@ -140,7 +140,9 @@ Beyond its role as a major export market, the European Union also plays an impor
 | Pakistan   |  2.24 |  3.01 |   0.76 |  3.46 |  4.77 |  1.31 |
 | Türkiye    |  0.55 |  0.95 |   0.41 |  9.73 |  9.05 | -0.67 |
 
-: Changes in U.S. and EU export market shares (percent), 2015--2024. Source: UN COMTRADE, author's calculations. {#tbl-shares}
+: Changes in U.S. and EU export market shares (percent), 2015--2024. {#tbl-shares}
+
+\source{UN COMTRADE, author's calculations.}
 
 It is important to note that overall, Indonesia remains relatively competitive on several cost components, particularly in energy and water costs. @tbl-costs compares key production-cost indicators across major textile and footwear producing countries. Wage levels in Indonesia also remain below those in China and are broadly comparable to those in India. Indonesia occupies a relatively competitive position as a manufacturing base, although its advantages are not uniform across all cost components. Indonesia's relatively modest gains in export market share therefore cannot be explained by production costs alone. Other factors such as supply chain integration, technology adoption, product quality and compliance with evolving market requirements, are also likely to play an important role in shaping competitiveness.
 
@@ -153,13 +155,15 @@ It is important to note that overall, Indonesia remains relatively competitive o
 | India      | 220  | 10   | 37  | 11%\*  | 200 |
 | China      | 600  | 12   | 18  | 4.50%  | 224 |
 
-: Comparison of production costs across Indonesia, Vietnam, Bangladesh, Pakistan, India and China (USD and US¢). Source: Gherzi database, WTO and ADB, accessed through @ramadhan2025. \* There is an interest rate incentive for capital investment and technological modernization. {#tbl-costs}
+: Comparison of production costs across Indonesia, Vietnam, Bangladesh, Pakistan, India and China (USD and US¢). {#tbl-costs}
+
+`\source{`{=latex}Gherzi database, WTO and ADB, accessed through @ramadhan2025. \* There is an interest rate incentive for capital investment and technological modernization.`}`{=latex}
 
 ## Smile Curve, Global Value Chains and Economic Dualism
 
 The textile and footwear industries are characterized by a value chain that resembles a parabola, commonly referred to as the "smile curve" due to its shape, illustrated by @fig-smile [@baldwin2021smile; @goto2023]. The horizontal axis represents the production process from upstream to downstream activities, while the vertical axis represents the value added generated at each stage of production. In both industries, value added tends to be concentrated at the upstream and downstream ends of the value chain (such as activities in branding, design, marketing and post-production services), while manufacturing activities (particularly cut-make-trim (CMT) operations) generally generate lower value added.
 
-![Smile curve illustration in the textile and footwear industry. Source: @goto2023, author's calculation.](fig/smile_curve_english.png){#fig-smile width=90%}
+![Smile curve illustration in the textile and footwear industry.](fig/smile_curve_english.png){#fig-smile width=90%}
 
 Advances in trade, communication and logistics have enabled different stages of production to be geographically fragmented across countries. Higher value-added activities tend to be concentrated in economies with stronger capabilities in design, branding, technology and specialized services, while labor-intensive manufacturing activities are often undertaken in countries with larger pools of general production workers. Because production processes frequently cross national borders multiple times before the product reaches the final consumer, this phenomenon is commonly referred to as a Global Value Chain (GVC) [@feenstra2021; @gereffi2010; @gupta2022gvc].
 
@@ -179,7 +183,7 @@ This has given rise to a form of economic dualism within Indonesia's textile and
 
 Indonesia's textile industry spans the full length of the smile curve, and consists of a vertically integrated production chain extending from upstream raw material processing to downstream garment manufacturing and retail activities (@fig-textilechain). Upstream segments, including the processing of petrochemical inputs such as PTA/MEG, polyester fiber production and yarn spinning, tend to be capital and energy intensive. Meanwhile, production becomes more labor-intensive moving downstream, culminating in garment manufacturing and the retail sector. This structural distinction has direct implications for the types of value added generated, the employment profiles supported and the nature of competitive pressures faced at each stage.
 
-![Structure of the textile industry value chain. Source: BPS, International Textile Manufacturers Federation.](fig/textile_value_chain.png){#fig-textilechain width=100%}
+![Structure of the textile industry value chain.](fig/textile_value_chain.png){#fig-textilechain width=100%}
 
 Indonesia's upstream textile segments demonstrate a relatively strong export orientation. Fiber and yarn production export shares reach 73% and 52%, respectively (@fig-textilechain). By contrast, downstream activities such as garment manufacturing export 20.00% of their total production. However, employment increases along the value chain, rising from approximately 10,000 workers in raw material processing (PTA/MEG) to more than 1.29 million workers in garment manufacturing.
 
@@ -187,7 +191,7 @@ The complementary roles performed across different segments of the value chain u
 
 The geographic distribution of Indonesia's textile industry indicates that production activity remains heavily concentrated on the island of Java (@fig-maptextile). Of the 761 textile firms recorded, nearly 57% are located in West Java, serving as the primary hub of Indonesia's textile industry, supported by the availability of labor, supporting infrastructure, and proximity to markets and supply chains. Central Java (18%) and Banten (10%) also play important roles as major industrial clusters, while East Java (9.2%) continues to contribute through its concentration of medium-scale industries. Together, these provinces form the core of Indonesia's textile manufacturing base.
 
-![Distribution map of companies in the textile industry. Source: BPS, author's calculation.](fig/map_textile.png){#fig-maptextile width=100%}
+![Distribution map of companies in the textile industry.](fig/map_textile.png){#fig-maptextile width=100%}
 
 Outside of Java (2.37%), textile manufacturers are far fewer in number and more geographically dispersed. Many of these enterprises have emerged from local traditions such as weaving and textile handicrafts. This illustrates the structural heterogeneity at the firm-level where large scale, GVC-integrated manufacturers coexist alongside domestically oriented producers, MSMEs and artisanal enterprises, each facing distinct competitive conditions and policy needs.
 
@@ -195,9 +199,9 @@ Outside of Java (2.37%), textile manufacturers are far fewer in number and more 
 
 Indonesia's footwear industry is similarly characterized by a multi-stage production process spanning raw material suppliers, component manufacturers, footwear assembly and distribution to final consumers (@fig-footwearchain; @fig-footwearprocess). Inputs such as leather, rubber, textiles, synthetic materials and chemical components are transformed into footwear parts before being assembled into finished products. While value creation in the industry extends beyond manufacturing to activities such as design, product development, branding, and innovation, production activities remain the dominant segment undertaken in Indonesia.
 
-![Footwear supply chain. Source: Gereffi (1994); Stacey (2019).](fig/footwear_supply_chain.png){#fig-footwearchain width=100%}
+![Footwear supply chain.](fig/footwear_supply_chain.png){#fig-footwearchain width=100%}
 
-![Factory production process for the footwear industry. Source: DEN (2025), based on site visits and interviews with footwear manufacturers.](fig/footwear_production_process.png){#fig-footwearprocess width=100%}
+![Factory production process for the footwear industry.](fig/footwear_production_process.png){#fig-footwearprocess width=100%}
 
 Many of Indonesia's footwear manufacturers are integrated into the GVC, supplying international brands through export-oriented production networks. As previously mentioned, these firms typically specialize in manufacturing activities within the value chain, while higher-value added functions are often undertaken by global lead firms. The footwear industry's heavy reliance on FDI (accounting for approximately 90% of total investment) reflects this deep integration into international production networks.
 
@@ -205,7 +209,7 @@ At the same time, Indonesia's footwear industry continues to face structural cha
 
 The footwear industry's production base is heavily concentrated on the island of Java (@fig-mapfootwear). West Java hosts the largest number of globally integrated footwear factories, with 42 facilities employing more than 186,000 workers across Sukabumi, Garut, Cibogo and Karawang. Banten and Central Java are home to 29 and 13 factories, respectively, each province employing just over 112,000 workers. The concentration of production in these provinces is supported by industrial infrastructure, access to suppliers and established export networks.
 
-![Geographic distribution of footwear factories in Java. Source: APRISINDO (2025); DEN analysis.](fig/map_footwear.png){#fig-mapfootwear width=100%}
+![Geographic distribution of footwear factories in Java.](fig/map_footwear.png){#fig-mapfootwear width=100%}
 
 Recent investment trends suggest that Central Java is emerging as an increasingly important destination for footwear manufacturing expansion. While West Java and Banten remain the industry's largest production centers, relatively lower labor costs and the availability of workers have encouraged firms to establish new facilities and expand existing operations in Central Java. Employment in Central Java's footwear industry is expected to increase by approximately 85,000 workers[^1] over the next one to two years, underscoring the growing importance of the region within Indonesia's footwear manufacturing landscape.
 
@@ -219,7 +223,7 @@ The strategic challenges facing Indonesia's textile and footwear industry are sh
 
 @fig-trade illustrates the first implication. Although Indonesia has developed a substantial upstream textile industry, the country continues to simultaneously import and export significant volumes of textile raw materials and intermediate goods. The rayon industry provides a useful example. Indonesia is a competitive producer of viscose-based products, yet firms in this segment remain deeply integrated into international markets. Asia Pacific Rayon (APR), for instance, exports 61% of its Viscose Staple Fibre (VSF) production and 71% of its Viscose Yarn output, while Indonesia continues to import rayon and yarn products from abroad [@aprayon2024].
 
-![Exports and imports of textile and footwear-related goods[^2]. Each panel shows Indonesia's trade value in billion USD by year, split by product stage (raw materials, intermediates, finished goods) and flow (import, export). Source: UN COMTRADE.](fig/trade_by_type.png){#fig-trade width=75%}
+![Exports and imports of textile and footwear-related goods[^2]. Each panel shows Indonesia's trade value in billion USD by year, split by product stage (raw materials, intermediates, finished goods) and flow (import, export).](fig/trade_by_type.png){#fig-trade width=75%}
 
 [^2]: Raw materials are defined as HS Code chapters 50--55; intermediate goods cover chapters 56, 58, 59, and 60; and finished goods encompass chapters 61--64.
 
@@ -275,7 +279,7 @@ Technology adoption remains an important determinant of competitiveness in Indon
 
 @fig-machinery illustrates that Indonesia has generally lagged behind regional competitors such as Vietnam in machinery modernization, particularly in spinning and weaving. Over the past decade, Indonesia experienced declining capacity in several upstream segments, including ring spinning, open-end spinning, and shuttleless looms, while Vietnam continued to expand capacity through sustained investment in newer production equipment. This trend suggests that the challenge facing Indonesia is not only one of competitiveness, but also of maintaining productive capacity in strategic upstream segments of the textile value chain.
 
-![Comparison of textile machinery modernization in Indonesia and Vietnam. Source: DEN, ITMF, Gherzi.](fig/machinery_modernization.png){#fig-machinery width=90%}
+![Comparison of textile machinery modernization in Indonesia and Vietnam.](fig/machinery_modernization.png){#fig-machinery width=90%}
 
 Older machinery tends to be less productive, more energy-intensive, and more costly to maintain, reducing competitiveness relative to producers that have invested in newer technologies. As a result, machinery modernization remains one of the industry's most pressing priorities, particularly for upstream segments that form the foundation of domestic textile value chains.
 
@@ -287,11 +291,11 @@ Automation is also becoming increasingly important, not necessarily as a substit
 
 The textile, garment, and footwear industries remain among Indonesia's most important manufacturing employers. Total employment increased from 4.1 million workers in 2020 to more than 5.0 million in 2025, equivalent to approximately one-quarter of formal manufacturing employment nationwide [@bps2025sakernas]. Textile and garment manufacturing continues to dominate employment within the sector, accounting for nearly four million workers in 2025. Nevertheless, the fastest employment growth occurred in the footwear industry, where the workforce expanded by around 60 percent between 2020 and 2025, compared with approximately 15--20 percent growth in textile and garment manufacturing in the same period (@fig-workers).
 
-![Number of workers in Indonesia's labor-intensive industries (million), 2020--2025. Source: BPS, Sakernas.](fig/workers.png){#fig-workers width=70% fig-pos="H"}
+![Number of workers in Indonesia's labor-intensive industries (million), 2020--2025.](fig/workers.png){#fig-workers width=70% fig-pos="H"}
 
 The growth in employment naturally raises concerns about whether labor supply can keep pace with industry demand. However, available workforce projections suggest that Indonesia is unlikely to face a shortage of workers for either industry. According to projections from the Ministry of Manpower, the annual supply of vocational graduates (SMK and Vocational graduates) relevant to the textile and footwear industries is expected to continue growing through 2029. For textiles and garments, the supply of graduates is projected to increase from approximately 624,802 in 2025 to 765,763 in 2029, equivalent to average annual growth of 5.2 percent. Footwear-related graduates are projected to rise from around 133,232 to approximately 183 thousand over the same period, representing annual growth of 8.3 percent (@fig-workforce).
 
-![Projected workforce supply for Indonesia's textile & garment, and footwear industries[^6]. Source: Ministry of Manpower.](fig/workforce_projection.png){#fig-workforce width=95%}
+![Projected workforce supply for Indonesia's textile & garment, and footwear industries[^6].](fig/workforce_projection.png){#fig-workforce width=95%}
 
 [^6]: Labor Supply Projections for Vocational Education and Training Graduates (SMK and Diploma).
 
@@ -327,11 +331,11 @@ Achieving that export ambition will depend not only on financing and incentives,
 
 Firstly, on the business licensing front, DEN's engagement with textile and garment sector players across West Java, Central Java, Banten, and East Java identified 27 companies totalling 108,179 workers whose investment realization timelines are sensitive to permitting duration (@fig-pipeline).
 
-![Pipeline of textile, garment & footwear investments (2025--2026). Source: DEN.](fig/investment_pipeline.png){#fig-pipeline width=100%}
+![Pipeline of textile, garment & footwear investments (2025--2026).](fig/investment_pipeline.png){#fig-pipeline width=100%}
 
 A deeper look at one footwear facility in Central Java employing 12,000 workers illustrates the extent to which permitting delays can constrain investment realization. The AMDAL (environmental permit) process alone took approximately 1,095 days, accounting for the majority of the project's licensing timeline (@fig-licensing).
 
-![Potential reduction in investment approval time through full implementation of PP No. 28/2025. Source: DEN.](fig/licensing_time.png){#fig-licensing width=100%}
+![Potential reduction in investment approval time through full implementation of PP No. 28/2025.](fig/licensing_time.png){#fig-licensing width=100%}
 
 While this case is illustrative rather than representative, similar challenges have been reported across the sector. Government Regulation No. 28 of 2025 seeks to address these bottlenecks by introducing Service Level Agreements (SLAs) with defined processing timelines for each approval stage. Full implementation could reduce total licensing time from 2--3 years to approximately 1.2 years, including a reduction in AMDAL processing time from 1,095 days to 126 days. The effectiveness of these reforms will ultimately depend on consistent enforcement and strong coordination across all levels of government.
 
@@ -359,4 +363,6 @@ Ultimately, Indonesia's opportunity is not simply to attract more textile and fo
 
 # Reproducibility Statement {.unnumbered}
 
-The source files for this paper are hosted at <https://github.com/imedkrisna/tekstil>. All data-driven figures (@fig-growth, @fig-recovery, @fig-investment, @fig-globalimport, @fig-smile, @fig-trade, @fig-workers) are generated by the Jupyter notebook `fig/fig.ipynb` from the Excel files in the `fig/` folder; the Sakernas employment counts behind @fig-workers are entered directly in the notebook. The market shares in @tbl-shares are computed in the same notebook from bilateral UN COMTRADE data (`TradeData.xlsx`), which is not redistributed in the repository; the notebook preserves the computed output. The remaining figures (value chain diagrams, maps, and charts based on DEN fieldwork and third-party databases) are included as static images in `fig/`; the two maps were cropped from the originals, which are kept in the same folder with an `_original` suffix.
+The source files for this paper are hosted at <https://github.com/den-econ/tekstil>.
+
+# References {.unnumbered}

@@ -143,15 +143,15 @@ $endfor$
 % Keep internal links clickable without PDF border underlines.
 \hypersetup{pdfborder={0 0 0}}
 
-% Source note environment for figure attributions (right-aligned, compact)
+% Source notes for figure/table attributions (right-aligned, compact).
 % \FloatBarrier forces pending floats to appear before the note, so the
-% figure and its source line always land on the same page.
+% float and its source line always land on the same page.
 \RequirePackage{placeins}
-\newenvironment{source}{%
+\newcommand{\source}[1]{%
   \FloatBarrier%
   \vspace{-1em}%
   \begin{flushright}\scriptsize\itshape
-}{%
+  Source: #1
   \end{flushright}%
 }
 \newcommand{\sumber}[1]{%

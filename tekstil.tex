@@ -146,15 +146,15 @@ policy; Indonesia}
 % Keep internal links clickable without PDF border underlines.
 \hypersetup{pdfborder={0 0 0}}
 
-% Source note environment for figure attributions (right-aligned, compact)
+% Source notes for figure/table attributions (right-aligned, compact).
 % \FloatBarrier forces pending floats to appear before the note, so the
-% figure and its source line always land on the same page.
+% float and its source line always land on the same page.
 \RequirePackage{placeins}
-\newenvironment{source}{%
+\newcommand{\source}[1]{%
   \FloatBarrier%
   \vspace{-1em}%
   \begin{flushright}\scriptsize\itshape
-}{%
+  Source: #1
   \end{flushright}%
 }
 \newcommand{\sumber}[1]{%
@@ -270,7 +270,7 @@ associated with the COVID-19 pandemic.
 }
 
 \caption{\label{fig-growth}Growth trends in the textile, footwear and
-manufacturing sectors, 2010--2025. Source: BPS.}
+manufacturing sectors, 2010--2025.}
 
 \end{figure}%
 
@@ -293,8 +293,7 @@ struggling to catch up to its pre-COVID trajectory.
 }
 
 \caption{\label{fig-recovery}Post-pandemic recovery projection of the
-textile and footwear industries relative to pre-COVID trends. Source:
-BPS}
+textile and footwear industries relative to pre-COVID trends.}
 
 \end{figure}%
 
@@ -318,8 +317,7 @@ investment throughout most of the period.
 }
 
 \caption{\label{fig-investment}Foreign and domestic direct investment in
-the textile and footwear industries, 2010--2025. Source: BPS, accessed
-through CEIC.}
+the textile and footwear industries, 2010--2025.}
 
 \end{figure}%
 
@@ -385,7 +383,7 @@ United States at 17.1 percent.
 \caption{\label{fig-globalimport}Global import market for garments and
 footwear by region, 2023--2025 (USA, EU, Asia and Rest of World (RoW)).
 The y-axis shows total import value in billion USD; labels show each
-region's share of global imports. Source: UN Comtrade.}
+region's share of global imports.}
 
 \end{figure}%
 
@@ -419,8 +417,7 @@ more successful in expanding their market shares.
   >{\raggedleft\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1304}}
   >{\raggedleft\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1739}}@{}}
 \caption{Changes in U.S. and EU export market shares (percent),
-2015--2024. Source: UN COMTRADE, author's
-calculations.}\label{tbl-shares}\tabularnewline
+2015--2024.}\label{tbl-shares}\tabularnewline
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 Partner
@@ -469,6 +466,8 @@ Pakistan & 2.24 & 3.01 & 0.76 & 3.46 & 4.77 & 1.31 \\
 Türkiye & 0.55 & 0.95 & 0.41 & 9.73 & 9.05 & -0.67 \\
 \end{longtable}
 
+\source{UN COMTRADE, author's calculations.}
+
 It is important to note that overall, Indonesia remains relatively
 competitive on several cost components, particularly in energy and water
 costs. Table~\ref{tbl-costs} compares key production-cost indicators
@@ -490,10 +489,8 @@ likely to play an important role in shaping competitiveness.
   >{\raggedleft\arraybackslash}p{(\linewidth - 10\tabcolsep) * \real{0.1905}}
   >{\raggedleft\arraybackslash}p{(\linewidth - 10\tabcolsep) * \real{0.1190}}@{}}
 \caption{Comparison of production costs across Indonesia, Vietnam,
-Bangladesh, Pakistan, India and China (USD and US¢). Source: Gherzi
-database, WTO and ADB, accessed through Ramadhan (2025). * There is an
-interest rate incentive for capital investment and technological
-modernization.}\label{tbl-costs}\tabularnewline
+Bangladesh, Pakistan, India and China (USD and
+US¢).}\label{tbl-costs}\tabularnewline
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 Country
@@ -536,6 +533,10 @@ India & 220 & 10 & 37 & 11\%* & 200 \\
 China & 600 & 12 & 18 & 4.50\% & 224 \\
 \end{longtable}
 
+\source{Gherzi database, WTO and ADB, accessed through Ramadhan (2025).
+* There is an interest rate incentive for capital investment and
+technological modernization.}
+
 \subsection{Smile Curve, Global Value Chains and Economic
 Dualism}\label{smile-curve-global-value-chains-and-economic-dualism}
 
@@ -559,7 +560,7 @@ services), while manufacturing activities (particularly cut-make-trim
 }
 
 \caption{\label{fig-smile}Smile curve illustration in the textile and
-footwear industry. Source: Goto (2023), author's calculation.}
+footwear industry.}
 
 \end{figure}%
 
@@ -665,7 +666,7 @@ the nature of competitive pressures faced at each stage.
 }
 
 \caption{\label{fig-textilechain}Structure of the textile industry value
-chain. Source: BPS, International Textile Manufacturers Federation.}
+chain.}
 
 \end{figure}%
 
@@ -707,7 +708,7 @@ provinces form the core of Indonesia's textile manufacturing base.
 }
 
 \caption{\label{fig-maptextile}Distribution map of companies in the
-textile industry. Source: BPS, author's calculation.}
+textile industry.}
 
 \end{figure}%
 
@@ -742,8 +743,7 @@ in Indonesia.
 
 }
 
-\caption{\label{fig-footwearchain}Footwear supply chain. Source: Gereffi
-(1994); Stacey (2019).}
+\caption{\label{fig-footwearchain}Footwear supply chain.}
 
 \end{figure}%
 
@@ -756,8 +756,7 @@ in Indonesia.
 }
 
 \caption{\label{fig-footwearprocess}Factory production process for the
-footwear industry. Source: DEN (2025), based on site visits and
-interviews with footwear manufacturers.}
+footwear industry.}
 
 \end{figure}%
 
@@ -799,7 +798,7 @@ networks.
 }
 
 \caption{\label{fig-mapfootwear}Geographic distribution of footwear
-factories in Java. Source: APRISINDO (2025); DEN analysis.}
+factories in Java.}
 
 \end{figure}%
 
@@ -858,11 +857,11 @@ rayon and yarn products from abroad (Asia Pacific Rayon 2024).
 footwear-related goods. Each panel shows
 Indonesia's trade value in billion USD by year, split by product stage
 (raw materials, intermediates, finished goods) and flow (import,
-export). Source: UN COMTRADE.]{\label{fig-trade}Exports and imports of textile and
+export).]{\label{fig-trade}Exports and imports of textile and
 footwear-related goods\footnotemark{}. Each panel shows
 Indonesia's trade value in billion USD by year, split by product stage
 (raw materials, intermediates, finished goods) and flow (import,
-export). Source: UN COMTRADE.}
+export).}
 
 \end{figure}%
 \footnotetext{Raw materials are defined as HS Code
@@ -1074,7 +1073,7 @@ textile value chain.
 }
 
 \caption{\label{fig-machinery}Comparison of textile machinery
-modernization in Indonesia and Vietnam. Source: DEN, ITMF, Gherzi.}
+modernization in Indonesia and Vietnam.}
 
 \end{figure}%
 
@@ -1125,8 +1124,7 @@ period (Figure~\ref{fig-workers}).
 }
 
 \caption{\label{fig-workers}Number of workers in Indonesia's
-labor-intensive industries (million), 2020--2025. Source: BPS,
-Sakernas.}
+labor-intensive industries (million), 2020--2025.}
 
 \end{figure}%
 
@@ -1152,8 +1150,8 @@ representing annual growth of 8.3 percent (Figure~\ref{fig-workforce}).
 }
 
 \caption[\label{fig-workforce}Projected workforce supply for Indonesia's
-textile \& garment, and footwear industries. Source: Ministry of Manpower.]{\label{fig-workforce}Projected workforce supply for Indonesia's
-textile \& garment, and footwear industries\footnotemark{}. Source: Ministry of Manpower.}
+textile \& garment, and footwear industries.]{\label{fig-workforce}Projected workforce supply for Indonesia's
+textile \& garment, and footwear industries\footnotemark{}.}
 
 \end{figure}%
 \footnotetext{Labor Supply
@@ -1312,7 +1310,7 @@ investment realization timelines are sensitive to permitting duration
 }
 
 \caption{\label{fig-pipeline}Pipeline of textile, garment \& footwear
-investments (2025--2026). Source: DEN.}
+investments (2025--2026).}
 
 \end{figure}%
 
@@ -1331,7 +1329,7 @@ project's licensing timeline (Figure~\ref{fig-licensing}).
 }
 
 \caption{\label{fig-licensing}Potential reduction in investment approval
-time through full implementation of PP No.~28/2025. Source: DEN.}
+time through full implementation of PP No.~28/2025.}
 
 \end{figure}%
 
@@ -1448,21 +1446,10 @@ transformation in the years ahead.
 \addcontentsline{toc}{section}{Reproducibility Statement}
 
 The source files for this paper are hosted at
-\url{https://github.com/imedkrisna/tekstil}. All data-driven figures
-(Figure~\ref{fig-growth}, Figure~\ref{fig-recovery},
-Figure~\ref{fig-investment}, Figure~\ref{fig-globalimport},
-Figure~\ref{fig-smile}, Figure~\ref{fig-trade},
-Figure~\ref{fig-workers}) are generated by the Jupyter notebook
-\texttt{fig/fig.ipynb} from the Excel files in the \texttt{fig/} folder;
-the Sakernas employment counts behind Figure~\ref{fig-workers} are
-entered directly in the notebook. The market shares in
-Table~\ref{tbl-shares} are computed in the same notebook from bilateral
-UN COMTRADE data (\texttt{TradeData.xlsx}), which is not redistributed
-in the repository; the notebook preserves the computed output. The
-remaining figures (value chain diagrams, maps, and charts based on DEN
-fieldwork and third-party databases) are included as static images in
-\texttt{fig/}; the two maps were cropped from the originals, which are
-kept in the same folder with an \texttt{\_original} suffix.
+\url{https://github.com/den-econ/tekstil}.
+
+\section*{References}\label{references}
+\addcontentsline{toc}{section}{References}
 
 \phantomsection\label{refs}
 \begin{CSLReferences}{1}{1}
@@ -1520,12 +1507,6 @@ Developing Countries}. World Bank.
 Gereffi, Gary, John Humphrey, and Timothy Sturgeon. 2005. {``The
 Governance of Global Value Chains.''} \emph{Review of International
 Political Economy} 12 (1): 78--104.
-
-\bibitem[\citeproctext]{ref-goto2023}
-Goto, Kenta. 2023. {``Viet Nam's Textile and Garment Industry in the
-Global Value Chain.''} In \emph{Viet Nam 2045: Development Issues and
-Challenges}. ERIA.
-\url{https://www.eria.org/uploads/16_ch_12-Textile-and-Garment-Industry-in-GVC.pdf}.
 
 \bibitem[\citeproctext]{ref-gupta2022gvc}
 Gupta, Krisna, Irma Tsuraya Choirinnida, and Muhammad Taufik. 2022.
